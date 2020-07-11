@@ -44,6 +44,22 @@ its Applications*, vol. 61. Dordrecht, Netherlands: Kluwer, 147-152.
 
 - A. Gluhovsky and C. Tong, 2000:  Low-order models of a sheared convective boundary layer.  *American Meteorological Society 14th Symposium on Boundary Layer and Turbulence*, 7-11 August 2000, Aspen, Colorado, 206-209.
 
+### Conference Abstracts (Unrefereed)
+
+- C. Tong and A. Gluhovsky, 2002:  An energy-conserving low-order model for 3D thermal convection.  *Annual March Meeting of the American Physical Society*, 18-22 March 2002, Indianapolis, Indiana.  *Bulletin of the American Physical Society*, **47** (1), 107.
+
+- A. Gluhovsky and C. Tong, 2001:  Physically motivated Galerkin approximations in geophysical fluid dynamics. *American Physical Society 54th Annual Meeting of the Division of Fluid Dynamics*, 18-20 November 2001, San Diego, California.  *Bulletin of the American Physical Society*, **46** (10), 82.
+
+- C. Tong and A. Gluhovsky, 2001:  Modeling fluid flow with gyrostats.  *Indiana Section of the Mathematical Association of America Fall 2001 Meeting*, 20 October 2001, West Lafayette, Indiana.
+
+- A. Gluhovsky and C. Tong, 1999:  Nonlinear models in geophysical fluid dynamics in the form of coupled gyrostats.  *Twenty-fourth General Assembly of the European Geophysical Society*, 19-23 April 1999, The Hague, Netherlands.  *Geophysical Research Abstracts*, **1**, 810.
+
+- C. Tong and A. Gluhovsky, 1999:  Gyrostatic low-order models in fluid dynamics.  *Centennial Meeting of the American Physical Society*, 20-26 March 1999, Atlanta, Georgia.  *Bulletin of the American Physical Society*, **44** (1), 1826.
+
+
+- A. Gluhovsky and C. Tong, 1998:  The structure of energy conserving low-order models in geophysical fluid dynamics. *The Rossby-100 Symposium*, 8-12 June 1998, Stockholm, Sweden, **1**, 128-130.
+
+
 ### Letters to the Editor
 
 - A. Gluhovsky and C. Tong, 2014:  [Comments on "Analogies of ocean/atmosphere rotating fluid dynamics with gyroscopes:  teaching opportunities"](https://doi.org/10.1175/BAMS-D-13-00166.1).  *Bulletin of the American Meteorological Society*, **95**: 445-446.

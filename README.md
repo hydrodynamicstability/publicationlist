@@ -65,3 +65,9 @@ its Applications*, vol. 61. Dordrecht, Netherlands: Kluwer, 147-152.
 - A. Gluhovsky and C. Tong, 2014:  [Comments on "Analogies of ocean/atmosphere rotating fluid dynamics with gyroscopes:  teaching opportunities"](https://doi.org/10.1175/BAMS-D-13-00166.1).  *Bulletin of the American Meteorological Society*, **95**: 445-446.
 
 - A. Gluhovsky and C. Tong, 2012:  [Comments on "Modeling of chaotic motion of gyrostats in resistant environment on the base of dynamical systems with strange attractors"](https://doi.org/10.1016/j.cnsns.2011.11.019).  *Communications in Nonlinear Science and Numerical Simulation*, **17**: 3112-3113.
+
+## Gyrostats
+
+### Journal Publication (Refereed)
+
+- C. Tong, 2009:  [Lord Kelvin's gyrostat and its analogs in physics, including the Lorenz model](https://doi.org/10.1119/1.3095813).  *American Journal of Physics*, **77**, 526-537.

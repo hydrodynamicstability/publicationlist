@@ -18,25 +18,25 @@ Network.  *European Association of Fish Pathologists, 18th International Confere
 
 #### Journal Publications (Refereed)
 
-- K. Azer, M. C. Desiderio, C. Tong, M. Bunzel, B. R. Campbell, D. Shevell, and M. Walker III, 2010: High throughput Doppler toolbox for preclinical 
-drug development.  *Journal of the Association for Laboratory Automation*, **15**: 287-296.
+- K. Azer, M. C. Desiderio, C. Tong, M. Bunzel, B. R. Campbell, D. Shevell, and M. Walker III, 2010: [High throughput Doppler toolbox for preclinical 
+drug development](https://doi.org/10.1016/j.jala.2009.12.002).  *Journal of the Association for Laboratory Automation*, **15**: 287-296.
 
-- H. Tang, J. R. Vasselli, C. Tong, S. B. Heymsfield, and E. X. Wu, 2009:  In vivo MRI evaluation of anabolic steroid precursor growth 
-effects in a guinea pig model. *Steroids*, **74**: ~684-693.
+- H. Tang, J. R. Vasselli, C. Tong, S. B. Heymsfield, and E. X. Wu, 2009:  [In vivo MRI evaluation of anabolic steroid precursor growth 
+effects in a guinea pig model](https://doi.org/10.1016/j.steroids.2009.02.012). *Steroids*, **74**: ~684-693.
 
 - M. Walker III,  B. R. Campbell,  K. Azer, C. Tong, K. Fang, J. J. Cook, M. J. Forrest,  K. Kempadoo, S. D. Wright, J. S. Saltzman,  E. MacIntyre, 
-and R. Hargreaves, 2009: A novel 3-dimensional micro-ultrasound approach to automated measurement of carotid arterial plaque volume as a biomarker 
-for experimental atherosclerosis.  *Atherosclerosis*, **204**: 55-65.
+and R. Hargreaves, 2009: [A novel 3-dimensional micro-ultrasound approach to automated measurement of carotid arterial plaque volume as a biomarker 
+for experimental atherosclerosis](https://doi.org/10.1016/j.atherosclerosis.2008.09.013).  *Atherosclerosis*, **204**: 55-65.
 
-- B. B. Haines, K. A. Bettano, M. Chenard, R. S. Sevilla, C. Ware, M. H. Angagaw, C. T. Winkelmann, C. Tong, J. F. Reilly, C. Sur,  and W. Zhang, 2009: A 
-quantitative volumetric micro-computed tomography method to analyze lung tumors in genetically engineered mouse models.  *Neoplasia*, **11**: 39-47.
+- B. B. Haines, K. A. Bettano, M. Chenard, R. S. Sevilla, C. Ware, M. H. Angagaw, C. T. Winkelmann, C. Tong, J. F. Reilly, C. Sur,  and W. Zhang, 2009: [A 
+quantitative volumetric micro-computed tomography method to analyze lung tumors in genetically engineered mouse models](https://doi.org/10.1593/neo.81030).  *Neoplasia*, **11**: 39-47.
 
-- J. H. F. Rudd, K. S. Myers, S. Bansilal, J. Machac, C. A. Pinto, C. Tong, A. Rafique, R. Hargreaves, M. Farkouh, V. Fuster, and Z. A. Fayad, 2008:  Atherosclerosis 
-inflammation imaging with 18F-FDG PET:  carotid, iliac and femoral uptake reproducibility, quantification methods, and recommendations.  *Journal of Nuclear 
+- J. H. F. Rudd, K. S. Myers, S. Bansilal, J. Machac, C. A. Pinto, C. Tong, A. Rafique, R. Hargreaves, M. Farkouh, V. Fuster, and Z. A. Fayad, 2008:  [Atherosclerosis 
+inflammation imaging with 18F-FDG PET:  carotid, iliac and femoral uptake reproducibility, quantification methods, and recommendations](https://doi.org/10.2967/jnumed.107.050294).  *Journal of Nuclear 
 Medicine*, **49**:  871-878.
 
-- E. X. Wu, H. Tang, C. Tong, S. B. Heymsfield, and J. R. Vasselli, 2008:  In vivo MRI quantification of individual muscle and organ volumes for assessment 
-of anabolic steroid growth effects.  *Steroids*, **73**:  430-440.
+- E. X. Wu, H. Tang, C. Tong, S. B. Heymsfield, and J. R. Vasselli, 2008:  [In vivo MRI quantification of individual muscle and organ volumes for assessment 
+of anabolic steroid growth effects](https://doi.org/10.1016/j.steroids.2007.12.011).  *Steroids*, **73**:  430-440.
 
 
 #### Conference Abstracts

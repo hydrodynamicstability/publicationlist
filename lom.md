@@ -1,6 +1,6 @@
 # Christopher Tong List of Selected Publications and Abstracts
 
-## Theoretical Modeling of Thermal Convection
+## Theoretical Modeling of Hydrodynamics
 
 ### Journal Publications (Refereed)
 

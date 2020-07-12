@@ -23,10 +23,9 @@ Washington, DC.  *American Statistical Association 2009 Proceedings*, Biopharmac
 
 Note:  only documents with author credit are included here.  Contributions, in some cases substantial, have been made to other documents with no author listed.
 
-- C. Tong, 2015:  [Using software to estimate relative potency](https://www.aphis.usda.gov/animal_health/vet_biologics/publications/CVBSOP0102.pdf).  United States Department of Agriculture, Center for Veterinary Biologics, Standard Operating Policy/Procedure CVBSOP0102.03.
-
 - C. Tong and M. Vendettuoli, 2017:  [Parameterizations of the four-parameter logistic curve in software for estimating relative potency](https://www.aphis.usda.gov/animal_health/vet_biologics/publications/STATWI0005.pdf).  United States Department of Agriculture, Center for Veterinary Biologics, STATWI0005.01.
 
 - D. Siev and C. Tong, 2017:  [Prevented fraction methods:  PF package vignette](https://www.aphis.usda.gov/animal_health/vet_biologics/publications/STATWI0007.pdf).  United States Department of Agriculture, Center for Veterinary Biologics, STATWI0007.01.
 
+- C. Tong, 2015:  [Using software to estimate relative potency](https://www.aphis.usda.gov/animal_health/vet_biologics/publications/CVBSOP0102.pdf).  United States Department of Agriculture, Center for Veterinary Biologics, Standard Operating Policy/Procedure CVBSOP0102.03.
 

@@ -7,6 +7,11 @@
 
 - C. Tong, 2019:  [Statistical inference enables bad science; statistical thinking enables good science](https://doi.org/10.1080/00031305.2018.1518264).  *The American Statistician*, **73** (Sup 1): 246-261.  
 
+  - Presented at the the *41st Midwest Biopharmaceutical Statistics Workshop*, 14-16 May 2018, Indianapolis, IN.
+  
+  - Presented at the *Nevada Chapter of the American Statistical Association, 2017 Annual Symposium and Meeting*, 14 October 2017, Reno, NV.
+
+
 - B. Gunter and C. Tong, 2017:  [What are the odds!?  The "airport fallacy" and statistical inference](https://doi.org/10.1111/j.1740-9713.2017.01057.x).  *Significance*, **14** (4): 38-41.
 
   - B. Gunter and C. Tong, 2018:  Reply to John A. Lewis.  *Significance*, **15** (1): 46-47.
@@ -20,6 +25,10 @@
 ## Statistical Applications
 
 - [See listing](appliedstat.md)
+
+## Empirical Modeling of Quantitative Structure-Activity Relationships (QSAR)
+
+- [See listing](qsar.md)
 
 ## Theoretical Modeling of Otoacoustic Emissions
 

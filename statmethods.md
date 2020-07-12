@@ -15,7 +15,7 @@ Miami Beach, FL.  *American Statistical Association 2011 Proceedings*, Biometric
 
   - Accompanying code available [here](https://github.com/hydrodynamicstability/SLR.when.both.variables.random).
 
-- C. Tong and S. Wang, 2009:  Simple linear regression when both variables are random.  *Joint Statistical Meetings 2009*, 1-6 August 2009,
+- C. Tong and S. Wang, 2009:  [Simple linear regression when both variables are random](https://www.academia.edu/3873479/Simple_Linear_Regression_When_Both_Variables_are_Random).  *Joint Statistical Meetings 2009*, 1-6 August 2009,
 Washington, DC.  *American Statistical Association 2009 Proceedings*, Section on Physical and Engineering Sciences, 2877-2890.
 
   - Accompanying code for the 2011 paper above is also relevant to this 2009 paper.

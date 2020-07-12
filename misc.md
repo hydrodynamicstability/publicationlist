@@ -22,6 +22,8 @@
 
 - D. Shera and C. Tong, 2017:  Graph of the month.  American Statistical Association *Biometrics Section Newsletter*, October 2017.
 
+  - Accompanying code available [here](https://github.com/hydrodynamicstability/boxdot.plot).
+
 - C. Tong, 2005:  [Book review](https://doi.org/10.1080/07408170500232784) of *Methods of Multivariate Analysis*, second edition, by Alvin C. Rencher.  *IIE Transactions*, **37**, 1083-1085.
 
 - C. Tong, 1995:  [Answer](https://doi.org/10.1119/1.17963) to Question #4, "Is there a physics application that is best analyzed in terms of continued fractions?".  *American Journal of Physics*, **63**: 109.

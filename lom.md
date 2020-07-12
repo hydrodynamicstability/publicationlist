@@ -15,7 +15,7 @@
 
 ### Conference Papers (Unrefereed)
 
-- A. Gluhovsky, C. Tong, and E. Agee, 2001:  Energy conserving low-order models for potential vorticity dynamics and convection with shear.  *American Meteorological Society 13th Conference on Atmospheric and Oceanic Fluid Dynamics*, 4-8 June 2001, Breckenridge, Colorado, 117-121.
+- A. Gluhovsky, C. Tong, and E. Agee, 2001:  [Energy conserving low-order models for potential vorticity dynamics and convection with shear](https://ams.confex.com/ams/13FLUID/webprogram/Paper21040.html).  *American Meteorological Society 13th Conference on Atmospheric and Oceanic Fluid Dynamics*, 4-8 June 2001, Breckenridge, Colorado, 117-121.
 
 - A. Gluhovsky and C. Tong, 2001:  Low-order models of atmospheric dynamics with physically sound behavior. *IUTAM Symposium on Advances in Mathematical Modelling of Atmosphere and Ocean Dynamics, Proceedings*, 2-7 July 2000, Limerick, Ireland; P. F. Hodnett (ed.). *Fluid Mechanics and
 its Applications*, vol. 61. Dordrecht, Netherlands: Kluwer, 147-152.

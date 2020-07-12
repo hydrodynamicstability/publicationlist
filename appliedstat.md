@@ -45,7 +45,7 @@ of anabolic steroid growth effects.  *Steroids*, **73**:  430-440.
 quantification of lung tumors using micro-CT in complex genetically engineered mouse models.  *2009 World Molecular Imaging Congress*, 23-26 September 2009, 
 Montreal, Quebec, Canada.  
 
-- C.~Tong, 2009:  Validation of MRI measurement of muscle and organ volume in guinea pigs.  *International Chinese Statistical Association 2009 Applied
+- C. Tong, 2009:  Validation of MRI measurement of muscle and organ volume in guinea pigs.  *International Chinese Statistical Association 2009 Applied
 Statistics Symposium*, 21-24 June 2009, San Francisco, CA.
 
 - H. Tang, R. H. Chang, D. L. Suresch, L. A. McNamara, C. Tong, B. Misselwitz, D. Zhou, B. M. Connolly, J. Xu, X. Chen, X. Shen, C. Zhang, E. L. Rickes, 

@@ -31,6 +31,4 @@
 
 ## Gyrostats
 
-### Journal Publication (Refereed)
-
 - C. Tong, 2009:  [Lord Kelvin's gyrostat and its analogs in physics, including the Lorenz model](https://doi.org/10.1119/1.3095813).  *American Journal of Physics*, **77**, 526-537.

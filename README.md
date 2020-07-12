@@ -18,6 +18,9 @@
 
   - B. Gunter and C. Tong, 2017:  Reply to Justin Smith. *Significance*, **14** (6): 46.
   
+- B. Gunter and C. Tong, 2017:  A response to the ASA statement on statistical significance and p-values.  *Silver State-istics*, **14** (1):  supplement.
+
+
 ## Statistical Methodology
 
 - [See listing](statmethods.md)

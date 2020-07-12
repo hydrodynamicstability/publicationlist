@@ -27,7 +27,7 @@ Washington, DC.  *American Statistical Association 2009 Proceedings*, Biopharmac
 
 ### Publicly Available Regulatory Documents
 
-Note:  only documents with author credit are included here.  Contributions, in some cases substantial, have been made to other documents with no author listed.
+Note:  only documents with author credit are included here.  
 
 - C. Tong and M. Vendettuoli, 2017:  [Parameterizations of the four-parameter logistic curve in software for estimating relative potency](https://www.aphis.usda.gov/animal_health/vet_biologics/publications/STATWI0005.pdf).  United States Department of Agriculture, Center for Veterinary Biologics, STATWI0005.01.
 

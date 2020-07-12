@@ -25,6 +25,8 @@ T. Windeatt (eds.).  *Lecture Notes in Computer Science*, vol. 3077. Berlin: Spr
 *Joint Statistical Meetings 2003*, 3-7 August 2003, San Francisco, California.  *American Statistical Association 2003 Proceedings*, Section on 
 Physical and Engineering Sciences, 4263-4266.
 
+  - Runner-up for the JSM 2003 Oustanding Presentation Award, from the ASA Section on Physical and Engineering Sciences.
+
 ### Conference Abstracts
 
 - M. Torrent, C. Tong, A. Liaw, R. Nachbar, Y. Gao, R. Mosley, and C. Culberson, 2007:  Molecular modeling-assisted attenuation of undesirable PXR 

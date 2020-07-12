@@ -1,4 +1,4 @@
-# Christopher Tong Selected List of Publications and Abstracts
+# Christopher Tong List of Selected Publications and Abstracts
 
 ## Theoretical Modeling of Thermal Convection
 

@@ -3,7 +3,7 @@
 
 
 
-## Commentary on Statistical Methodology and Practice
+## Principles and Philosophy of Statistical Practice
 
 - C. Tong, 2019:  [Statistical inference enables bad science; statistical thinking enables good science](https://doi.org/10.1080/00031305.2018.1518264).  *The American Statistician*, **73** (Sup 1): 246-261.  
 
@@ -13,16 +13,19 @@
 
   - B. Gunter and C. Tong, 2017:  Reply to Justin Smith. *Significance*, **14** (6): 46.
   
+## Statistical Methodology
 
+- [See listing](statmethods.md)
 
-## Applied Statistics
+## Statistical Applications
 
-
+- [See listing](appliedstat.md)
 
 ## Theoretical Modeling of Otoacoustic Emissions
 
+- [See listing](oae.md)
 
-## Theoretical Modeling of Thermal Convection
+## Theoretical Modeling of Hydrodynamics
 
 - [See listing](lom.md)
 

@@ -24,9 +24,9 @@ its Applications*, vol. 61. Dordrecht, Netherlands: Kluwer, 147-152.
 
 ### Conference Abstracts (Unrefereed)
 
-- C. Tong and A. Gluhovsky, 2002:  [An energy-conserving low-order model for 3D thermal convection](http://flux.aps.org/meetings/YR02/MAR02/baps/abs/S270005.html).  *Annual March Meeting of the American Physical Society*, 18-22 March 2002, Indianapolis, Indiana.  *Bulletin of the American Physical Society*, **47** (1), 107.
+- C. Tong and A. Gluhovsky, 2002:  [An energy-conserving low-order model for 3D thermal convection](http://flux.aps.org/meetings/YR02/MAR02/baps/abs/S270005.html).  *Annual March Meeting of the American Physical Society*, 18-22 March 2002, Indianapolis, Indiana, A27.5.  *Bulletin of the American Physical Society*, **47** (1), 107.
 
-- A. Gluhovsky and C. Tong, 2001:  [Physically motivated Galerkin approximations in geophysical fluid dynamics](http://flux.aps.org/meetings/YR01/DFD01/abs/S420007.html). *American Physical Society 54th Annual Meeting of the Division of Fluid Dynamics*, 18-20 November 2001, San Diego, California.  *Bulletin of the American Physical Society*, **46** (10), 82.
+- A. Gluhovsky and C. Tong, 2001:  [Physically motivated Galerkin approximations in geophysical fluid dynamics](http://flux.aps.org/meetings/YR01/DFD01/abs/S420007.html). *American Physical Society 54th Annual Meeting of the Division of Fluid Dynamics*, 18-20 November 2001, San Diego, California, DL 7.  *Bulletin of the American Physical Society*, **46** (10), 82.
 
 - C. Tong and A. Gluhovsky, 2001:  Modeling fluid flow with gyrostats.  *Indiana Section of the Mathematical Association of America Fall 2001 Meeting*, 20 October 2001, West Lafayette, Indiana.
 

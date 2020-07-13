@@ -2,6 +2,8 @@
 
 ## Empirical Modeling of Quantitative Structure-Activity Relationships (QSAR)
 
+Machine learning methods used: random forest; stochastic gradient boosting; association rule learning.
+
 ### Journal Publications (Refereed)
 
 - J. Ma, C. Tong, A. Liaw, R. Sheridan, J. Szumiloski, and V. Svetnik, 2009:  [Generating hypotheses about molecular structure-activity relationships (SARs) by 
@@ -21,7 +23,7 @@ T. Windeatt (eds.).  *Lecture Notes in Computer Science*, vol. 3077. Berlin: Spr
 
 ### Conference Papers (Unrefereed)
 
-- C. Tong, V. Svetnik, and A. Liaw, 2003:  Quantitative structure-activity-relationship modeling using Leo Breiman's random forest. 
+- C. Tong, V. Svetnik, and A. Liaw, 2003:  [Quantitative structure-activity-relationship modeling using Leo Breiman's random forest](JSM2003-000025.pdf). 
 *Joint Statistical Meetings 2003*, 3-7 August 2003, San Francisco, California.  *American Statistical Association 2003 Proceedings*, Section on 
 Physical and Engineering Sciences, 4263-4266.
 

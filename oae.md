@@ -28,7 +28,6 @@ levels and frequency ratios.  *Twenty-third Midwinter Research Meeting of the As
 Florida. *Association for Research in Otolaryngology Abstracts*, **23**: 139.
 
 - C. L. Talmadge, A. Tubis, C. Tong, and G. R. Long, 1999:  Temporal behavior of distortion product  otoacoustic emissions. *Twenty-second Midwinter Research Meeting 
-of the Association for Research in Otolaryngology*, 14-18 February 1999, St. Petersburg Beach, Florida.  *Association for Research in Otolaryngology Abstracts*, 
-**22**: 102.
+of the Association for Research in Otolaryngology*, 13-18 February 1999, St. Petersburg Beach, Florida, 404.   *Association for Research in Otolaryngology Abstracts*, **22**: 102.
 
 

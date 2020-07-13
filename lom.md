@@ -2,7 +2,7 @@
 
 ## Theoretical Modeling of Hydrodynamics
 
-Low-order models in the form of coupled gyrostats, applied to 2D and 3D Rayleigh-Benard convection (including spontaneously-generated and externally-forced shear), magnetoconvection, and other hydrodynamic flows.
+Low-order models in the form of coupled gyrostats, applied to 2D and 3D Rayleigh-Benard convection (including either spontaneously-generated and externally-forced vertical shear), magnetoconvection, and other hydrodynamic flows.
 
 ### Journal Publications (Refereed)
 

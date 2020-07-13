@@ -77,7 +77,7 @@ analysis of medical imaging and radiotelemetry signals. *Joint Statistical Meeti
 
 #### Conference Paper (Refereed)
 
-- C. Tong and V. Svetnik, 2002:  Novelty detection in mass spectral data using a support vector machine method.  *Thirty-fourth Interface Symposium*, 
+- C. Tong and V. Svetnik, 2002:  [Novelty detection in mass spectral data using a support vector machine method](excerpt_interface2002.pdf).  *Thirty-fourth Interface Symposium*, 
 17-20 April 2002, Montreal, Quebec, Canada. *Computing Science and Statistics*, **34**: 515-521.
 
 #### Conference Abstract

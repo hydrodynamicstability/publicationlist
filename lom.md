@@ -2,6 +2,8 @@
 
 ## Theoretical Modeling of Hydrodynamics
 
+Low-order models in the form of coupled gyrostats, applied to 2D and 3D Rayleigh-Benard convection (including spontaneously-generated and externally-forced shear), magnetoconvection, and other hydrodynamic flows.
+
 ### Journal Publications (Refereed)
 
 - C. Tong and A. Gluhovsky, 2008:  [Gyrostatic extensions of the Howard-Krishnamurti model of thermal convection with shear](https://doi.org/10.5194/npg-15-71-2008).  *Nonlinear Processes in Geophysics*, **15**: 71-79.

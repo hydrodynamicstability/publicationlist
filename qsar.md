@@ -37,11 +37,11 @@ modeling.  *2006 ENAR Spring Meeting*, 26-29 March 2006, Tampa, FL.
 
 - S. Ha, C. Tong, R. Perlow-Poehnelt, J. H. Lin, J. C. Culberson, R. P. Sheridan, and J. Hochman, 2005:  QSAR models for predicting 
 p-glycoprotein activity of antagonists for a GPCR target. *230th American Chemical Society National Meeting and Exposition*, 28 August - 1 September 2005, 
-Washington, D.C.
+Washington, D.C., MEDI 146A.22.
 
 
 - V. Svetnik, T. Wang, C. Tong, and A. Liaw, 2005:  Application of ensemble learning for modeling of quantitative structure-activity relations of 
-pharmaceutical molecules. *Joint Annual Meeting of the Interface and the Classification Society of North America*, 8-12 June 2005, Saint Louis, Missouri.  
+pharmaceutical molecules. *Joint Annual Meeting of the Interface Foundation of North America and the Classification Society of North America*, 8-12 June 2005, Saint Louis, Missouri.  
 
 - C. Tong, V. Svetnik, A. Liaw, R. P. Sheridan, J. C. Culberson, B. P. Feuston, R. Evers, and D. Hartley, 2003:  QSAR prediction of ADME parameters 
 using a new machine learning tool--random forest.  *Predictive ADME*, 17-18 November 2003, Boston, Massachusetts.

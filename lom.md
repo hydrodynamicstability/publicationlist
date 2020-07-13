@@ -17,7 +17,7 @@
 
 - A. Gluhovsky, C. Tong, and E. Agee, 2001:  [Energy conserving low-order models for potential vorticity dynamics and convection with shear](https://ams.confex.com/ams/13FLUID/webprogram/Paper21040.html).  *American Meteorological Society 13th Conference on Atmospheric and Oceanic Fluid Dynamics*, 4-8 June 2001, Breckenridge, Colorado, 117-121.
 
-- A. Gluhovsky and C. Tong, 2001:  [Low-order models of atmospheric dynamics with physically sound behavior](https://link.springer.com/chapter/10.1007/978-94-010-0792-4_17). *IUTAM Symposium on Advances in Mathematical Modelling of Atmosphere and Ocean Dynamics, Proceedings*, 2-7 July 2000, Limerick, Ireland; P. F. Hodnett (ed.). *Fluid Mechanics and
+- A. Gluhovsky and C. Tong, 2001:  [Low-order models of atmospheric dynamics with physically sound behavior](https://doi.org/10.1007/978-94-010-0792-4_17). *IUTAM Symposium on Advances in Mathematical Modelling of Atmosphere and Ocean Dynamics, Proceedings*, 2-7 July 2000, Limerick, Ireland; P. F. Hodnett (ed.). *Fluid Mechanics and
 its Applications*, vol. 61. Dordrecht, Netherlands: Kluwer, 147-152.
 
 - A. Gluhovsky and C. Tong, 2000:  Low-order models of a sheared convective boundary layer.  *American Meteorological Society 14th Symposium on Boundary Layer and Turbulence*, 7-11 August 2000, Aspen, Colorado, 206-209.

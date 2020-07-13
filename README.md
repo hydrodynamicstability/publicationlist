@@ -24,13 +24,19 @@
 
 ## Statistical Methodology
 
+With particular focus on:  concordance correlation coefficient; alternative methods for simple linear regression; mean kinetic temperature.
+
 - [See listing](statmethods.md)
 
 ## Statistical Applications
 
+Grouped in the following categories:  veterinary microbiology; medical imaging; mass spectrometry.
+
 - [See listing](appliedstat.md)
 
 ## Empirical Modeling of Quantitative Structure-Activity Relationships (QSAR)
+
+Machine learning methods used:  random forest; stochastic gradient boosting; association rule learning.
 
 - [See listing](qsar.md)
 
@@ -39,6 +45,8 @@
 - [See listing](oae.md)
 
 ## Theoretical Modeling of Hydrodynamics
+
+Low-order models in the form of coupled gyrostats, applied to 2D and 3D Rayleigh-Benard convection (including spontaneously-generated and externally-forced shear), magnetoconvection, and other hydrodynamic flows.
 
 - [See listing](lom.md)
 

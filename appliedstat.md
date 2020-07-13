@@ -43,7 +43,7 @@ of anabolic steroid growth effects](https://doi.org/10.1016/j.steroids.2007.12.0
 
 - R. S. Sevilla, K. A. Bettano, B. B. Haines, M. Chenard, C. Ware, M. H. Angagaw, C. T. Winkelmann, C. Tong, J. F. Reilly, C. Sur, and W. Zhang, 2009:  Volumetric 
 quantification of lung tumors using micro-CT in complex genetically engineered mouse models.  *2009 World Molecular Imaging Congress*, 23-26 September 2009, 
-Montreal, Quebec, Canada.  
+Montreal, Quebec, Canada.  1007.
 
 - C. Tong, 2009:  Validation of MRI measurement of muscle and organ volume in guinea pigs.  *International Chinese Statistical Association 2009 Applied
 Statistics Symposium*, 21-24 June 2009, San Francisco, CA.

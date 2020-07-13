@@ -6,7 +6,7 @@
 
 - C. Tong and A. Gluhovsky, 2008:  [Gyrostatic extensions of the Howard-Krishnamurti model of thermal convection with shear](https://doi.org/10.5194/npg-15-71-2008).  *Nonlinear Processes in Geophysics*, **15**: 71-79.
 
-- C. Tong and A. Gluhovsky, 2008:  [Energy-conserving low-order models for three-dimensional Rayleigh-Benard convection](https://doi.org/10.1103/PhysRevE.65.046306).  *Physical Review E:  Statistical, Nonlinear, and Soft Matter Physics*, **65**: 046306.
+- C. Tong and A. Gluhovsky, 2002:  [Energy-conserving low-order models for three-dimensional Rayleigh-Benard convection](https://doi.org/10.1103/PhysRevE.65.046306).  *Physical Review E:  Statistical, Nonlinear, and Soft Matter Physics*, **65**: 046306.
 
 - A. Gluhovsky, C. Tong, and E. Agee, 2002:  [Selection of modes in convective low-order models](https://doi.org/10.1175/1520-0469(2002)059<1383:SOMICL>2.0.CO;2
 ).  *Journal of the Atmospheric Sciences*, **59**: 1383-1393.

@@ -1,6 +1,9 @@
 # Christopher Tong List of Selected Publications and Abstracts
 
 
+## Gyrostats
+
+- C. Tong, 2009:  [Lord Kelvin's gyrostat and its analogs in physics, including the Lorenz model](https://doi.org/10.1119/1.3095813).  *American Journal of Physics*, **77**, 526-537.
 
 
 ## Philosophy and Principles of Statistical Practice
@@ -38,10 +41,6 @@
 ## Theoretical Modeling of Hydrodynamics
 
 - [See listing](lom.md)
-
-## Gyrostats
-
-- C. Tong, 2009:  [Lord Kelvin's gyrostat and its analogs in physics, including the Lorenz model](https://doi.org/10.1119/1.3095813).  *American Journal of Physics*, **77**, 526-537.
 
 ## Miscellaneous Correspondence and Commentary
 

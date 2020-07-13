@@ -2,6 +2,8 @@
 
 ## Statistical Methodology
 
+With particular focus on: concordance correlation coefficient; alternative methods for simple linear regression; mean kinetic temperature.
+
 ### Conference Papers (Unrefereed)
 
 - C. Tong and A. Lock, 2015:  [A computational procedure for mean kinetic temperature using unequally spaced data](https://www.academia.edu/19390751/A_computational_procedure_for_mean_kinetic_temperature_using_unequally_spaced_data).  *Joint Statistical Meetings 2015*, 
@@ -28,14 +30,4 @@ Washington, DC.  *American Statistical Association 2009 Proceedings*, Section on
 Washington, DC.  *American Statistical Association 2009 Proceedings*, Biopharmaceutical Section, 2821-2834.
 
 - S. R. Sanjee and C. Tong, 2009:  SAS and VBScript for generation of Powerpoint presentation.  *PharmaSUG 2009*, 31 May-3 June 2009, Portland, Oregon, AD05.
-
-### Publicly Available Regulatory Documents
-
-Note:  only documents with author credit are included here.  
-
-- C. Tong and M. Vendettuoli, 2017:  [Parameterizations of the four-parameter logistic curve in software for estimating relative potency](https://www.aphis.usda.gov/animal_health/vet_biologics/publications/STATWI0005.pdf).  United States Department of Agriculture, Center for Veterinary Biologics, STATWI0005.01.
-
-- D. Siev and C. Tong, 2017:  [Prevented fraction methods:  PF package vignette](https://www.aphis.usda.gov/animal_health/vet_biologics/publications/STATWI0007.pdf).  United States Department of Agriculture, Center for Veterinary Biologics, STATWI0007.01.
-
-- C. Tong, 2015:  [Using software to estimate relative potency](https://www.aphis.usda.gov/animal_health/vet_biologics/publications/CVBSOP0102.pdf).  United States Department of Agriculture, Center for Veterinary Biologics, Standard Operating Policy/Procedure CVBSOP0102.03.
 

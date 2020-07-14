@@ -2,6 +2,8 @@
 
 ## Statistical Applications
 
+Grouped in the following categories: veterinary microbiology; medical imaging; mass spectrometry.
+
 ### Veterinary Microbiology
 
 #### Journal Publications (Refereed)
@@ -15,6 +17,10 @@ biological products](https://doi.org/10.1111/lam.12355).  *Letters in Applied Mi
 Network.  *European Association of Fish Pathologists, 18th International Conference on Diseases of Fish and Shellfish*, 4-8 September 2017, Belfast, N.I., U.K.  179-P.
 
 ### Medical Imaging
+
+Modalities:  Ultrasound (B-mode and Doppler), MRI, CT, PET.
+
+Therapeutic areas:  cardiovascular diseases, steroids, oncology.
 
 #### Journal Publications (Refereed)
 

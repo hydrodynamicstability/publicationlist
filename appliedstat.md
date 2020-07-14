@@ -66,7 +66,7 @@ response to therapies in the entire ascending arterial tree in thoracic cavity. 
 16-18 April 2008, Atlanta, Georgia.  P469.  *Arteriosclerosis, Thrombosis and Vascular Biology*, **28**:  E118.
 
 - M. Bunzel, B. R. Campbell, K. Azer, C. Tong, S. Ramcharan, K. Saini, C. Fancourt, S. Wang, and M. Walker III, 2008:  [3D-micro-ultrasound documents 
-Diltiazem mediated changes in central aortic hemodynamics](https://doi.org/10.1096/fasebj.22.1_supplement.587.2).  *Experimental Biology*, 5-9 April 2008, San Diego, California.  *FASEB Journal*, **22**, 587.2.
+Diltiazem mediated changes in central aortic hemodynamics](https://faseb.onlinelibrary.wiley.com/doi/10.1096/fasebj.22.1_supplement.587.2).  *Experimental Biology*, 5-9 April 2008, San Diego, California.  *FASEB Journal*, **22**, 587.2.
 
 - C. Tong, K. Azer, M. C. Desiderio, K. Saini, S. L. Ramcharan, M. M. Bunzel, B. R. Campbell, K. A. Parsons, M. Walker III, and D. Shevell, 2007: [Validation 
 of semi-automated Doppler ultrasound image processing to compute hemodynamic biomarkers](https://meetings.siam.org/sess/dsp_talk.cfm?p=23482).  *Society for Industrial and Applied Mathematics Conference on 

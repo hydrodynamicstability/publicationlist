@@ -22,6 +22,8 @@ Low-order models in the form of coupled gyrostats, applied to 2D and 3D Rayleigh
 - A. Gluhovsky and C. Tong, 2001:  [Low-order models of atmospheric dynamics with physically sound behavior](https://doi.org/10.1007/978-94-010-0792-4_17). *IUTAM Symposium on Advances in Mathematical Modelling of Atmosphere and Ocean Dynamics, Proceedings*, 2-7 July 2000, Limerick, Ireland; P. F. Hodnett (ed.). *Fluid Mechanics and
 its Applications*, vol. 61. Dordrecht, Netherlands: Kluwer, 147-152.
 
+  - IUTAM = International Union if Theoretical and Applied Mechanics.
+
 - A. Gluhovsky and C. Tong, 2000:  Low-order models of a sheared convective boundary layer.  *American Meteorological Society 14th Symposium on Boundary Layer and Turbulence*, 7-11 August 2000, Aspen, Colorado, 206-209.
 
 ### Conference Abstracts (Unrefereed)

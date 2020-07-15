@@ -47,8 +47,8 @@ Washington, D.C., MEDI 146A.22.
 - V. Svetnik, T. Wang, C. Tong, and A. Liaw, 2005:  Application of ensemble learning for modeling of quantitative structure-activity relations of 
 pharmaceutical molecules. *Joint Annual Meeting of the Interface Foundation of North America and the Classification Society of North America*, 8-12 June 2005, Saint Louis, Missouri.  
 
-- C. Tong, V. Svetnik, A. Liaw, R. P. Sheridan, J. C. Culberson, B. P. Feuston, R. Evers, and D. Hartley, 2003:  QSAR prediction of ADME parameters 
-using a new machine learning tool--random forest.  *Predictive ADME*, 17-18 November 2003, Boston, Massachusetts.
+- C. Tong, V. Svetnik, A. Liaw, R. P. Sheridan, J. C. Culberson, B. P. Feuston, R. Evers, and D. Hartley, 2003:  [QSAR prediction of ADME parameters 
+using a new machine learning tool--random forest](predictive_adme_excerpt.PNG).  *Predictive ADME*, 17-18 November 2003, Boston, Massachusetts.
 
 ### Note
 

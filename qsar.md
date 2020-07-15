@@ -37,6 +37,8 @@ activity.  *In Silico ADMET Conference:  The Role of Protein-Structure Informati
 - A. Liaw, C.Tong, T.-C. Wang, and V. Svetnik, 2006:  How to find drugs with trees:  applications of ensemble methods in QSAR 
 modeling.  *2006 ENAR Spring Meeting*, 26-29 March 2006, Tampa, FL. 
 
+  - ENAR = Eastern North American Region of the International Biometric Society.
+
 - S. Ha, C. Tong, R. Perlow-Poehnelt, J. H. Lin, J. C. Culberson, R. P. Sheridan, and J. Hochman, 2005:  QSAR models for predicting 
 p-glycoprotein activity of antagonists for a GPCR target. *230th American Chemical Society National Meeting and Exposition*, 28 August - 1 September 2005, 
 Washington, D.C., MEDI 146A.22.
@@ -48,4 +50,8 @@ pharmaceutical molecules. *Joint Annual Meeting of the Interface Foundation of N
 - C. Tong, V. Svetnik, A. Liaw, R. P. Sheridan, J. C. Culberson, B. P. Feuston, R. Evers, and D. Hartley, 2003:  QSAR prediction of ADME parameters 
 using a new machine learning tool--random forest.  *Predictive ADME*, 17-18 November 2003, Boston, Massachusetts.
 
+### Note
 
+ADME = Absorption, Distribution, Metabolism, and Excretion.  
+
+ADMET = same, except add Toxicity.

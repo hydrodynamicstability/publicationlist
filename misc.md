@@ -16,7 +16,7 @@
 
 - C. Tong, 2002:  [Various formulations of classical mechanics](https://doi.org/10.1119/1.1479745). *American Journal of Physics*, **70**: 664.
 
-- C. Tong, 2001: Physics and quality. *The Industrial Physicist*, **7** (3), 4.
+- C. Tong, 2001: [Physics and quality](ind_phys_excerpt.pdf). *The Industrial Physicist*, **7** (3), 4.
 
 - C. Tong, 1996:  [Torsional pendulums and SQUIDs](https://doi.org/10.1119/1.18352).  *American Journal of Physics*, **64**: 1227-1228.
 

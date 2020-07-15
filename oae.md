@@ -14,8 +14,10 @@ distortion product otoacoustic emission](https://doi.org/10.1121/1.1310666). *Jo
 
 ### Conference Paper (Unrefereed)
 
-- C. L. Talmadge, A. Tubis, C. Tong, G. R. Long, and S. Dhar, 2000:  Temporal aspects of otoacoustic emissions. *Proceedings of the International Symposium on Recent Developments in Auditory
+- C. L. Talmadge, A. Tubis, C. Tong, G. R. Long, and S. Dhar, 2000:  [Temporal aspects of otoacoustic emissions](https://www.mechanicsofhearing.org/mohdl/pdfs/MoH/MoH1999/Talmadge-etal-MoHProceedings-1999.pdf). *Proceedings of the International Symposium on Recent Developments in Auditory
 Mechanics*, 25-30 July 1999, Sendai, Japan; H. Wada, T. Takasaka, K. Ikeda, K. Ohyama, and T. Koike (eds.).  Singapore:  World Scientific, 353-359.
+
+  - This conference is part of the [Mechanics of Hearing Workshops](https://mechanicsofhearing.org/).
 
 ### Conference Abstracts
 

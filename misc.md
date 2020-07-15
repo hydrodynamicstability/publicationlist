@@ -12,6 +12,8 @@
 
 - C. Tong, 2003:  Further comments on the review times for statistics and physics journals.  *IMS Bulletin*, **32** (4): 10.
 
+  - IMS = Institute of Mathematical Statistics.
+
 - C. Tong, 2002:  [Various formulations of classical mechanics](https://doi.org/10.1119/1.1479745). *American Journal of Physics*, **70**: 664.
 
 - C. Tong, 2001: Physics and quality. *The Industrial Physicist*, **7** (3), 4.
@@ -25,6 +27,8 @@
   - Accompanying code available [here](https://github.com/hydrodynamicstability/boxdot.plot).
 
 - C. Tong, 2005:  [Book review](https://doi.org/10.1080/07408170500232784) of *Methods of Multivariate Analysis*, second edition, by Alvin C. Rencher.  *IIE Transactions*, **37**, 1083-1085.
+
+  - IIE = Institute of Industrial Engineers.
 
 - C. Tong, 1995:  [Answer](https://doi.org/10.1119/1.17963) to Question #4, "Is there a physics application that is best analyzed in terms of continued fractions?".  *American Journal of Physics*, **63**: 109.
 

@@ -10,7 +10,7 @@
 
 - C. Tong, 2004:  [Parallel universes in the statistics literature](https://doi.org/10.1119/1.1789165). *American Journal of Physics*, **72**: 1367.
 
-- C. Tong, 2003:  Further comments on the review times for statistics and physics journals.  *IMS Bulletin*, **32** (4): 10.
+- C. Tong, 2003:  [Further comments on the review times for statistics and physics journals](ims_bull_excerpt.pdf).  *IMS Bulletin*, **32** (4): 10.
 
   - IMS = Institute of Mathematical Statistics.
 

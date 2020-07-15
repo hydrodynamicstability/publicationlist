@@ -62,7 +62,7 @@ Magnetic Resonance In Medicine*, vol. 17, Session:  Coronaries & Aorta:  Lumen &
 
 - H. Tang, C. H. Chang, D. L. Suresch, L. A. McNamara, B. Misselwitz, D. Zhou, B. M. Connolly, C. Tong, E. L. Rickes, X. Shen, C. Sur, D. S. Williams, 
 M. Klimas, R. J. Hargreaves, and H. Liu, 2008:  In vivo quantitation of atherosclerotic plaque burden in mice by MRI: mapping plaque progression and regression in
-response to therapies in the entire ascending arterial tree in thoracic cavity.  *Arteriosclerosis, Thrombosis and Vascular Biology Annual Conference*, 
+response to therapies in the entire ascending arterial tree in thoracic cavity.  American Heart Association's *Arteriosclerosis, Thrombosis and Vascular Biology Annual Conference*, 
 16-18 April 2008, Atlanta, Georgia.  P469.  *Arteriosclerosis, Thrombosis and Vascular Biology*, **28**:  E118.
 
 - M. Bunzel, B. R. Campbell, K. Azer, C. Tong, S. Ramcharan, K. Saini, C. Fancourt, S. Wang, and M. Walker III, 2008:  [3D-micro-ultrasound documents 
@@ -92,4 +92,7 @@ analysis of medical imaging and radiotelemetry signals. *Joint Statistical Meeti
 rapid measure of bone resorption using accelerator mass spectrometry. *Experimental Biology 2002*, 20-24 April 2002, New Orleans, Louisiana. *FASEB 
 Journal*, **16** (4), A224.
 
+### Notes
+
+FASEB = Federation of American Societies for Experimental Biology.
 

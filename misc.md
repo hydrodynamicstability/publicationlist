@@ -22,7 +22,7 @@
 
 ### Other
 
-- D. Shera and C. Tong, 2017:  Graph of the month.  American Statistical Association *Biometrics Section Newsletter*, October 2017.
+- D. Shera and C. Tong, 2017:  [Graph of the month](biometrics_Oct2017excerpt.pdf).  American Statistical Association *Biometrics Section Newsletter*, October 2017.
 
   - Accompanying code available [here](https://github.com/hydrodynamicstability/boxdot.plot).
 

@@ -50,7 +50,7 @@ pharmaceutical molecules. *Joint Annual Meeting of the Interface Foundation of N
 - C. Tong, V. Svetnik, A. Liaw, R. P. Sheridan, J. C. Culberson, B. P. Feuston, R. Evers, and D. Hartley, 2003:  [QSAR prediction of ADME parameters 
 using a new machine learning tool--random forest](predictive_adme_excerpt.PNG).  *Predictive ADME*, 17-18 November 2003, Boston, Massachusetts.
 
-### Note
+### Notes
 
 ADME = Absorption, Distribution, Metabolism, and Excretion.  
 

@@ -18,9 +18,9 @@ Arranged by topic.
 
 - B. Gunter and C. Tong, 2017:  [What are the odds!?  The "airport fallacy" and statistical inference](https://doi.org/10.1111/j.1740-9713.2017.01057.x).  *Significance*, **14** (4): 38-41.
 
-  - B. Gunter and C. Tong, 2018:  Reply to John A. Lewis.  *Significance*, **15** (1): 46-47.
+  - B. Gunter and C. Tong, 2018:  [Reply to John A. Lewis](GunterAndTong_2018replyToLewis.pdf).  *Significance*, **15** (1): 46-47.
 
-  - B. Gunter and C. Tong, 2017:  Reply to Justin Smith. *Significance*, **14** (6): 46.
+  - B. Gunter and C. Tong, 2017:  [Reply to Justin Smith](GunterAndTong_2017replyToSmith.pdf). *Significance*, **14** (6): 46.
   
 
 ## Statistical Methodology

@@ -31,6 +31,6 @@ Washington, DC.  *American Statistical Association 2009 Proceedings*, Biopharmac
 
 - S. R. Sanjee and C. Tong, 2009:  SAS and VBScript for generation of Powerpoint presentation.  *PharmaSUG 2009*, 31 May-3 June 2009, Portland, Oregon, AD05.
 
-  - Note:  PharmaSUG = Pharmaceutical Industry SAS User's Group.
+  - Note:  PharmaSUG = Pharmaceutical Industry SAS Users' Group.
   
 

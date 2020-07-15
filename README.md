@@ -1,5 +1,6 @@
 # Christopher Tong List of Selected Publications and Abstracts
 
+Arranged by topic.
 
 ## Gyrostats
 

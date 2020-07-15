@@ -75,8 +75,8 @@ Mathematics for Industry*, 9-11 October 2007, Phildadelphia, Pennsylvania.
 - K. Azer, M. C. Desiderio, M. Walker III, S. L. Ramcharan, C. Tong, M. M. Bunzel, and D. Shevell, 2007: [Semi-automated Doppler toolbox for integrated 
 hemodynamic analysis](https://meetings.siam.org/sess/dsp_talk.cfm?p=23499). *Society for Industrial and Applied Mathematics Conference on Mathematics for Industry*, 9-11 October 2007, Phildadelphia, Pennsylvania.  
 
-- C. Tong, Y. Tymofyeyev, K. Azer, P. E. Brandish, H. Chen, J. C. Hershey, M. Walker III, B. R. Campbell, K. Fang, D. S. Williams, and A. Coimbra, 2006: Biomarker 
-analysis of medical imaging and radiotelemetry signals. *Joint Statistical Meetings 2006*, 6-10 August 2006, Seattle, Washington. 
+- C. Tong, Y. Tymofyeyev, K. Azer, P. E. Brandish, H. Chen, J. C. Hershey, M. Walker III, B. R. Campbell, K. Fang, D. S. Williams, and A. Coimbra, 2006: [Biomarker 
+analysis of medical imaging and radiotelemetry signals](jsm2006excerpt.PNG). *Joint Statistical Meetings 2006*, 6-10 August 2006, Seattle, Washington. 
 
 
 ### Mass Spectrometry

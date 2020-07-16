@@ -7,6 +7,8 @@
 
   - Published in the special issue on *Statistical Inference in the 21st Century: A World Beyond p < 0.05*.
   
+  - Discussed on Andrew Gelman's blog, *Statistical Modeling, Causal Inference, and Social Science* [here](https://statmodeling.stat.columbia.edu/2019/09/16/harking-sharking-tharking/) and especially [here](https://statmodeling.stat.columbia.edu/2019/09/17/statistical-inference-enables-bad-science-statistical-thinking-enables-good-science/).
+  
   - Presented at the the *41st Midwest Biopharmaceutical Statistics Workshop*, 14-16 May 2018, Indianapolis, IN.
   
   - Presented at the *Nevada Chapter of the American Statistical Association, 2017 Annual Symposium and Meeting*, 14 October 2017, Reno, NV.

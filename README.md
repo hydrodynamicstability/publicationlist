@@ -20,7 +20,7 @@ Arranged by topic.
 
   - B. Gunter and C. Tong, 2018:  [Reply to John A. Lewis](GunterAndTong_2018replyToLewis.pdf).  *Significance*, **15** (1): 46-47.
 
-  - B. Gunter and C. Tong, 2017:  [Reply to Justin Smith](GunterAndTong_2017replyToSmith extr.pdf). *Significance*, **14** (6): 46.
+  - B. Gunter and C. Tong, 2017:  [Reply to Justin Smith](GunterAndTong_2017replyToSmithextr.pdf). *Significance*, **14** (6): 46.
   
 
 ## Statistical Methodology

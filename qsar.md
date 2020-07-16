@@ -35,7 +35,7 @@ Physical and Engineering Sciences, 4263-4266.
 activity.  *In Silico ADMET Conference:  The Role of Protein-Structure Information in ADMET Prediction*, 16-17 May 2007, London, U.K.
 
 - A. Liaw, C.Tong, T.-C. Wang, and V. Svetnik, 2006:  [How to find drugs with trees:  applications of ensemble methods in QSAR 
-modeling](enar2006.ex.PNG).  *2006 ENAR Spring Meeting*, 26-29 March 2006, Tampa, FL. 
+modeling](enar2006ex.PNG).  *2006 ENAR Spring Meeting*, 26-29 March 2006, Tampa, FL. 
 
   - ENAR = Eastern North American Region of the International Biometric Society.
 

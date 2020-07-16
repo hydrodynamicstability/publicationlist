@@ -3,6 +3,8 @@
 
 ## Philosophy and Principles of Statistical Practice
 
+![American Statistician cover](TASmar2019coverCLN.PNG) ![Significance cover](August-cover-web.png)
+
 - C. Tong, 2019:  [Statistical inference enables bad science; statistical thinking enables good science](https://doi.org/10.1080/00031305.2018.1518264).  *The American Statistician*, **73** (Sup 1): 246-261.  
 
   - Published in the special issue on *Statistical Inference in the 21st Century: A World Beyond p < 0.05*.

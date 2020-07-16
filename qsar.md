@@ -34,8 +34,8 @@ Physical and Engineering Sciences, 4263-4266.
 - M. Torrent, C. Tong, A. Liaw, R. Nachbar, Y. Gao, R. Mosley, and C. Culberson, 2007:  Molecular modeling-assisted attenuation of undesirable PXR 
 activity.  *In Silico ADMET Conference:  The Role of Protein-Structure Information in ADMET Prediction*, 16-17 May 2007, London, U.K.
 
-- A. Liaw, C.Tong, T.-C. Wang, and V. Svetnik, 2006:  How to find drugs with trees:  applications of ensemble methods in QSAR 
-modeling.  *2006 ENAR Spring Meeting*, 26-29 March 2006, Tampa, FL. 
+- A. Liaw, C.Tong, T.-C. Wang, and V. Svetnik, 2006:  [How to find drugs with trees:  applications of ensemble methods in QSAR 
+modeling](enar2006.ex.PNG).  *2006 ENAR Spring Meeting*, 26-29 March 2006, Tampa, FL. 
 
   - ENAR = Eastern North American Region of the International Biometric Society.
 
@@ -44,8 +44,8 @@ p-glycoprotein activity of antagonists for a GPCR target. *230th American Chemic
 Washington, D.C., MEDI 146A.22.
 
 
-- V. Svetnik, T. Wang, C. Tong, and A. Liaw, 2005:  Application of ensemble learning for modeling of quantitative structure-activity relations of 
-pharmaceutical molecules. *Joint Annual Meeting of the Interface Foundation of North America and the Classification Society of North America*, 8-12 June 2005, Saint Louis, Missouri.  
+- V. Svetnik, T. Wang, C. Tong, and A. Liaw, 2005:  [Application of ensemble learning for modeling of quantitative structure-activity relations of 
+pharmaceutical molecules](interface2005ex.PNG). *Joint Annual Meeting of the Interface Foundation of North America and the Classification Society of North America*, 8-12 June 2005, Saint Louis, Missouri.  
 
 - C. Tong, V. Svetnik, A. Liaw, R. P. Sheridan, J. C. Culberson, B. P. Feuston, R. Evers, and D. Hartley, 2003:  [QSAR prediction of ADME parameters 
 using a new machine learning tool--random forest](predictive_adme_excerpt.PNG).  *Predictive ADME*, 17-18 November 2003, Boston, Massachusetts.

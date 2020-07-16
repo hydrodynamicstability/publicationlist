@@ -24,7 +24,7 @@ its Applications*, vol. 61. Dordrecht, Netherlands: Kluwer, 147-152.
 
   - IUTAM = International Union of Theoretical and Applied Mechanics.
 
-- A. Gluhovsky and C. Tong, 2000:  Low-order models of a sheared convective boundary layer.  *American Meteorological Society 14th Symposium on Boundary Layer and Turbulence*, 7-11 August 2000, Aspen, Colorado, 206-209.
+- A. Gluhovsky and C. Tong, 2000:  [Low-order models of a sheared convective boundary layer](aspen2000.pdf).  *American Meteorological Society 14th Symposium on Boundary Layer and Turbulence*, 7-11 August 2000, Aspen, Colorado, 206-209.
 
 ### Conference Abstracts (Unrefereed)
 
@@ -34,11 +34,11 @@ its Applications*, vol. 61. Dordrecht, Netherlands: Kluwer, 147-152.
 
 - C. Tong and A. Gluhovsky, 2001:  Modeling fluid flow with gyrostats.  *Indiana Section of the Mathematical Association of America Fall 2001 Meeting*, 20 October 2001, West Lafayette, Indiana.
 
-- A. Gluhovsky and C. Tong, 1999:  Nonlinear models in geophysical fluid dynamics in the form of coupled gyrostats.  *Twenty-fourth General Assembly of the European Geophysical Society*, 19-23 April 1999, The Hague, Netherlands.  *Geophysical Research Abstracts*, **1**, 810.
+- A. Gluhovsky and C. Tong, 1999:  [Nonlinear models in geophysical fluid dynamics in the form of coupled gyrostats](egs1999ex.PNG).  *Twenty-fourth General Assembly of the European Geophysical Society*, 19-23 April 1999, The Hague, Netherlands.  *Geophysical Research Abstracts*, **1**, 810.
 
 - C. Tong and A. Gluhovsky, 1999:  [Gyrostatic low-order models in fluid dynamics](http://flux.aps.org/meetings/YR99/CENT99/abs/S9145012.html).  *Centennial Meeting of the American Physical Society*, 20-26 March 1999, Atlanta, Georgia, YC06.12.  *Bulletin of the American Physical Society*, **44** (1), 1826.
 
-- A. Gluhovsky and C. Tong, 1998:  The structure of energy conserving low-order models in geophysical fluid dynamics. *The Rossby-100 Symposium*, 8-12 June 1998, Stockholm, Sweden, **1**, 128-130.
+- A. Gluhovsky and C. Tong, 1998:  [The structure of energy conserving low-order models in geophysical fluid dynamics](rossby100.pdf). *The Rossby-100 Symposium*, 8-12 June 1998, Stockholm, Sweden, **1**, 128-130.
 
 
 ### Letters to the Editor

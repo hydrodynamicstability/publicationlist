@@ -9,6 +9,8 @@ Machine learning methods used: random forest; stochastic gradient boosting; asso
 - J. Ma, C. Tong, A. Liaw, R. Sheridan, J. Szumiloski, and V. Svetnik, 2009:  [Generating hypotheses about molecular structure-activity relationships (SARs) by 
 solving an optimization problem](https://doi.org/10.1002/sam.10040).  *Statistical Analysis and Data Mining*, **2**: 161-174.
 
+  - Published in the Special Issue on Chemogenomics, Part II.
+
 - V. Svetnik,  T. Wang, C.  Tong, A. Liaw, R. P. Sheridan, and Q. Song, 2005:  [Boosting:  an ensemble learning tool for compound classification and QSAR 
 modeling](https://doi.org/10.1021/ci0500379). *Journal of Chemical Information and Modeling*, **45**:  786-799.
 

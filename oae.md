@@ -21,11 +21,11 @@ Mechanics*, 25-30 July 1999, Sendai, Japan; H. Wada, T. Takasaka, K. Ikeda, K. O
 
 ### Conference Abstracts
 
-- C. Talmadge, A. Tubis, and C. Tong, 2001:  Cochlear wave reflection due to roughness in 2-d and 3-d cochlear models.  *Twenty-fourth Midwinter Research Meeting of the Association for Research in Otolaryngology*, 4-8 February 2001, St. Petersburg Beach, Florida, 44. *Association for Research in Otolaryngology Abstracts*, **24**: 12.
+- C. Talmadge, A. Tubis, and C. Tong, 2001:  [Cochlear wave reflection due to roughness in 2-d and 3-d cochlear models](aro2001ex.PNG).  *Twenty-fourth Midwinter Research Meeting of the Association for Research in Otolaryngology*, 4-8 February 2001, St. Petersburg Beach, Florida, 44. *Association for Research in Otolaryngology Abstracts*, **24**: 12.
 
-- A. Tubis, C. Talmadge, G. Long, S. Dhar, and C. Tong, 2000: Amplitude and group-delay finestructures of distortion product otoacoustic emissions as functions of primary levels and frequency ratios.  *Twenty-third Midwinter Research Meeting of the Association for Research in Otolaryngology*, 20-24 February 2000, St. Petersburg Beach, Florida, 483. *Association for Research in Otolaryngology Abstracts*, **23**: 139.
+- A. Tubis, C. Talmadge, G. Long, S. Dhar, and C. Tong, 2000: [Amplitude and group-delay finestructures of distortion product otoacoustic emissions as functions of primary levels and frequency ratios](aro2000ex.PNG).  *Twenty-third Midwinter Research Meeting of the Association for Research in Otolaryngology*, 20-24 February 2000, St. Petersburg Beach, Florida, 483. *Association for Research in Otolaryngology Abstracts*, **23**: 139.
 
-- C. L. Talmadge, A. Tubis, C. Tong, and G. R. Long, 1999:  Temporal behavior of distortion product  otoacoustic emissions. *Twenty-second Midwinter Research Meeting 
+- C. L. Talmadge, A. Tubis, C. Tong, and G. R. Long, 1999:  [Temporal behavior of distortion product  otoacoustic emissions](aro1999ex.PNG). *Twenty-second Midwinter Research Meeting 
 of the Association for Research in Otolaryngology*, 13-18 February 1999, St. Petersburg Beach, Florida, 404.   *Association for Research in Otolaryngology Abstracts*, **22**: 102.
 
 

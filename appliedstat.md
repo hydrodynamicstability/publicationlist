@@ -47,11 +47,11 @@ of anabolic steroid growth effects](https://doi.org/10.1016/j.steroids.2007.12.0
 
 #### Conference Abstracts
 
-- R. S. Sevilla, K. A. Bettano, B. B. Haines, M. Chenard, C. Ware, M. H. Angagaw, C. T. Winkelmann, C. Tong, J. F. Reilly, C. Sur, and W. Zhang, 2009:  Volumetric 
-quantification of lung tumors using micro-CT in complex genetically engineered mouse models.  *2009 World Molecular Imaging Congress*, 23-26 September 2009, 
+- R. S. Sevilla, K. A. Bettano, B. B. Haines, M. Chenard, C. Ware, M. H. Angagaw, C. T. Winkelmann, C. Tong, J. F. Reilly, C. Sur, and W. Zhang, 2009:  [Volumetric 
+quantification of lung tumors using micro-CT in complex genetically engineered mouse models](wmic2009ex.PNG).  *2009 World Molecular Imaging Congress*, 23-26 September 2009, 
 Montreal, Quebec, Canada.  1007.
 
-- C. Tong, 2009:  Validation of MRI measurement of muscle and organ volume in guinea pigs.  *International Chinese Statistical Association 2009 Applied
+- C. Tong, 2009:  [Validation of MRI measurement of muscle and organ volume in guinea pigs](icsa2009ex.PNG).  *International Chinese Statistical Association 2009 Applied
 Statistics Symposium*, 21-24 June 2009, San Francisco, CA.
 
 - H. Tang, R. H. Chang, D. L. Suresch, L. A. McNamara, C. Tong, B. Misselwitz, D. Zhou, B. M. Connolly, J. Xu, X. Chen, X. Shen, C. Zhang, E. L. Rickes, 
@@ -88,8 +88,8 @@ analysis of medical imaging and radiotelemetry signals](jsm2006excerpt.PNG). *Jo
 
 #### Conference Abstract
 
-- G. S. Jackson, L. A. Spence, D. Elmore, B. R. Martin, C. Tong, G. McCabe, M. A. Rounds, and C. M. Weaver, 2002:  Development of a precise, accurate, and 
-rapid measure of bone resorption using accelerator mass spectrometry. *Experimental Biology 2002*, 20-24 April 2002, New Orleans, Louisiana. *FASEB 
+- G. S. Jackson, L. A. Spence, D. Elmore, B. R. Martin, C. Tong, G. McCabe, M. A. Rounds, and C. M. Weaver, 2002:  [Development of a precise, accurate, and 
+rapid measure of bone resorption using accelerator mass spectrometry](faseb2002excerpt.PNG). *Experimental Biology 2002*, 20-24 April 2002, New Orleans, Louisiana. *FASEB 
 Journal*, **16** (4), A224.
 
 ### Notes

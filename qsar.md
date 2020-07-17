@@ -4,6 +4,8 @@
 
 Machine learning methods used: random forest; stochastic gradient boosting; association rule learning.
 
+<img src="journal_jcics.jpg" width=128> <img src="mcs2004cover.jpg" width=110> <img src="journal_jcim.jpg" width=125> <img src="journal_sadm.gif" width=128>
+
 ### Journal Publications (Refereed)
 
 - J. Ma, C. Tong, A. Liaw, R. Sheridan, J. Szumiloski, and V. Svetnik, 2009:  [Generating hypotheses about molecular structure-activity relationships (SARs) by 

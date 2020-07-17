@@ -2,15 +2,16 @@
 
 ## Theoretical Modeling of Otoacoustic Emissions
 
+<img src="jasa_cover.jpg" width="175" >  <img src="sendai_cover.jpg" width="168" > 
+
 ### Journal Publications (Refereed)
 
-- C. L. Talmadge, A. Tubis, G. R. Long, and C. Tong, 2000:  [Modeling the combined effects of basilar membrane nonlinearity and roughness on stimulus frequency otoacoustic emission fine structure](https://doi.org/10.1121/1.1321012). *Journal of the Acoustical Society of America*, **108**: 2911-2932.
+- C. L. Talmadge, A. Tubis, G. R. Long, and C. Tong, 2000:  [Modeling the combined effects of basilar membrane nonlinearity and roughness on stimulus frequency otoacoustic emission fine structure](https://doi.org/10.1121/1.1321012). *Journal of the Acoustical Society of America*, **108**: 2911-2932.  :lock:
 
 - A. Tubis, C. L. Talmadge, C. Tong, and S. Dhar, 2000: [On the relationships between the fixed-f_1, fixed-f_2 and fixed-ratio phase derivatives of the 2f_1 -f_2 
-distortion product otoacoustic emission](https://doi.org/10.1121/1.1310666). *Journal of the Acoustical Society of America*, **108**:  1772-1785.
+distortion product otoacoustic emission](https://doi.org/10.1121/1.1310666). *Journal of the Acoustical Society of America*, **108**:  1772-1785.  :lock:
 
-- A. Tubis, C. L. Talmadge, and C. Tong, 2000:  [Modeling the temporal behavior of distortion product otoacoustic emissions](https://doi.org/10.1121/1.428493).  *Journal of the Acoustical Society of America*, 
-**107**:  2112-2127.
+- A. Tubis, C. L. Talmadge, and C. Tong, 2000:  [Modeling the temporal behavior of distortion product otoacoustic emissions](https://doi.org/10.1121/1.428493).  *Journal of the Acoustical Society of America*, **107**:  2112-2127.  :lock:
 
 ### Conference Paper (Unrefereed)
 

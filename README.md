@@ -1,6 +1,6 @@
 # Christopher Tong List of Selected Publications and Abstracts
 
-Arranged by topic.  Links to items behind a paywall are denoted by :lock:.
+Arranged by topic.  Links are provided to DOIs whenever possible.  Links to items behind a paywall are denoted by :lock:.
 
 ## Gyrostats
 

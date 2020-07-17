@@ -4,7 +4,7 @@
 
 Low-order models in the form of coupled gyrostats, applied to 2D and 3D Rayleigh-Benard convection (including either spontaneously-generated or externally-forced vertical shear), magnetoconvection, and other hydrodynamic flows.
 
-<img src="journal_pof.jpg" width=128> <img src="iutam_cover.jpg" width=110> <img src=journal_jas.jpg width=125> <img src="journal_pre.gif" width=125> <img src="journal_npg.jpg" width=125> <img src="journal_csns.gif" width=120> <img src="bams_cover.jpg" width=125>
+<img src="journal_pof.jpg" width="128"> <img src="iutam_cover.jpg" width="110"> <img src=journal_jas.jpg width="125"> <img src="journal_pre.gif" width="125"> <img src="journal_npg.jpg" width="125"> <img src="journal_csns.gif" width="120"> <img src="bams_cover.jpg" width="125">
 
 ### Journal Publications (Refereed)
 

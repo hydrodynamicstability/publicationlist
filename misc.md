@@ -14,11 +14,11 @@
 
   - IMS = Institute of Mathematical Statistics.
 
-- C. Tong, 2002:  [Various formulations of classical mechanics](https://doi.org/10.1119/1.1479745). *American Journal of Physics*, **70**: 664.
+- C. Tong, 2002:  [Various formulations of classical mechanics](https://doi.org/10.1119/1.1479745). *American Journal of Physics*, **70**: 664.  :lock:
 
 - C. Tong, 2001: [Physics and quality](ind_phys_excerpt.pdf). *The Industrial Physicist*, **7** (3), 4.
 
-- C. Tong, 1996:  [Torsional pendulums and SQUIDs](https://doi.org/10.1119/1.18352).  *American Journal of Physics*, **64**: 1227-1228.
+- C. Tong, 1996:  [Torsional pendulums and SQUIDs](https://doi.org/10.1119/1.18352).  *American Journal of Physics*, **64**: 1227-1228.  :lock:
 
 ### Other
 
@@ -26,7 +26,7 @@
 
   - Accompanying code available [here](https://github.com/hydrodynamicstability/boxdot.plot).
 
-- C. Tong, 2005:  [Book review](https://doi.org/10.1080/07408170500232784) of *Methods of Multivariate Analysis*, second edition, by Alvin C. Rencher.  *IIE Transactions*, **37**, 1083-1085.
+- C. Tong, 2005:  [Book review](https://doi.org/10.1080/07408170500232784) of *Methods of Multivariate Analysis*, second edition, by Alvin C. Rencher.  *IIE Transactions*, **37**, 1083-1085.  :lock:
 
   - IIE = Institute of Industrial Engineers.
 

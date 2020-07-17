@@ -6,10 +6,10 @@ Grouped in the following categories: veterinary microbiology; medical imaging; m
 
 ### Veterinary Microbiology
 
-#### Journal Publications (Refereed)
-
  <img src="lam_cover.gif" width="110">
  
+#### Journal Publications (Refereed)
+
 - A. L. Ingebritson, C. P. Gibbs, C. Tong, and G. B. Srinivas, 2015:  [A PCR detection method for testing mycoplasma contamination of veterinary vaccines and
 biological products](https://doi.org/10.1111/lam.12355).  *Letters in Applied Microbiology*, **60**: 174-180.
 

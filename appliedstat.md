@@ -4,7 +4,7 @@
 
 Grouped in the following categories: veterinary microbiology; medical imaging; mass spectrometry.
 
-<img src="journal_steroids.gif" width=110> <img src="jnm_cover.gif" width=110> <img src="journal_neo.jpg" width=110> <img src="journal_athero.gif" width=110> <img src="journal_jala.gif" width=110> <img src="lam_cover.gif" width=110>
+<img src="journal_steroids.gif" width="110"> <img src="jnm_cover.gif" width="110"> <img src="journal_neo.jpg" width="110"> <img src="journal_athero.gif" width="110"> <img src="journal_jala.gif" width="110"> <img src="lam_cover.gif" width="110">
 
 ### Veterinary Microbiology
 

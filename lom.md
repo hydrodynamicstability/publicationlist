@@ -48,4 +48,4 @@ Low-order models in the form of coupled gyrostats, applied to 2D and 3D Rayleigh
 
 - A. Gluhovsky and C. Tong, 2012:  [Comments on "Modeling of chaotic motion of gyrostats in resistant environment on the base of dynamical systems with strange attractors"](https://doi.org/10.1016/j.cnsns.2011.11.019).  *Communications in Nonlinear Science and Numerical Simulation*, **17**: 3112-3113.  :lock:
 
-<img src="journal_csns.gif" width="120"> <img src="bams_cover.jpg" width="125">
+<img src="journal_csns.gif" width="121"> <img src="bams_cover.jpg" width="125">

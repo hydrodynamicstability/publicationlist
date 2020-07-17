@@ -4,12 +4,12 @@
 
 Grouped in the following categories: veterinary microbiology; medical imaging; mass spectrometry.
 
-<img src="journal_steroids.gif" width="110"> <img src="jnm_cover.gif" width="110"> <img src="journal_neo.jpg" width="110"> <img src="journal_athero.gif" width="110"> <img src="journal_jala.gif" width="110"> <img src="lam_cover.gif" width="110">
-
 ### Veterinary Microbiology
 
 #### Journal Publications (Refereed)
 
+ <img src="lam_cover.gif" width="110">
+ 
 - A. L. Ingebritson, C. P. Gibbs, C. Tong, and G. B. Srinivas, 2015:  [A PCR detection method for testing mycoplasma contamination of veterinary vaccines and
 biological products](https://doi.org/10.1111/lam.12355).  *Letters in Applied Microbiology*, **60**: 174-180.
 
@@ -23,6 +23,8 @@ Network.  *European Association of Fish Pathologists, 18th International Confere
 Modalities:  Ultrasound (B-mode and Doppler), MRI, CT, PET.
 
 Therapeutic areas:  cardiovascular diseases, steroids, oncology.
+
+<img src="journal_steroids.gif" width="110"> <img src="jnm_cover.gif" width="110"> <img src="journal_neo.jpg" width="110"> <img src="journal_athero.gif" width="110"> <img src="journal_jala.gif" width="110">
 
 #### Journal Publications (Refereed)
 

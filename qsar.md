@@ -7,22 +7,22 @@ Machine learning methods used: random forest; stochastic gradient boosting; asso
 ### Journal Publications (Refereed)
 
 - J. Ma, C. Tong, A. Liaw, R. Sheridan, J. Szumiloski, and V. Svetnik, 2009:  [Generating hypotheses about molecular structure-activity relationships (SARs) by 
-solving an optimization problem](https://doi.org/10.1002/sam.10040).  *Statistical Analysis and Data Mining*, **2**: 161-174.
+solving an optimization problem](https://doi.org/10.1002/sam.10040).  *Statistical Analysis and Data Mining*, **2**: 161-174.  :lock:
 
   - Published in the *Special Issue on Chemogenomics, Part II*.
 
 - V. Svetnik,  T. Wang, C.  Tong, A. Liaw, R. P. Sheridan, and Q. Song, 2005:  [Boosting:  an ensemble learning tool for compound classification and QSAR 
-modeling](https://doi.org/10.1021/ci0500379). *Journal of Chemical Information and Modeling*, **45**:  786-799.
+modeling](https://doi.org/10.1021/ci0500379). *Journal of Chemical Information and Modeling*, **45**:  786-799.  :lock:
 
 - V. Svetnik, A. Liaw, C.  Tong, J. C. Culberson, R. P. Sheridan, and B. P. Feuston, 2003:  [Random forest:  a classification and regression tool for 
-compound classification and QSAR modeling](https://doi.org/10.1021/ci034160g). *Journal of Chemical Information and Computer Sciences*, **43**: 1947-1958.
+compound classification and QSAR modeling](https://doi.org/10.1021/ci034160g). *Journal of Chemical Information and Computer Sciences*, **43**: 1947-1958.  :lock:
 
   - This is by far the most frequently cited journal paper I have co-authored.
 
 ### Conference Papers (Refereed)
 
 - V. Svetnik, A. Liaw, C. Tong, and T. Wang, 2004:  [Application of Breiman's random forest to modeling structure-activity relationships of pharmaceutical 
-molecules](https://doi.org/10.1007/978-3-540-25966-4_33).  *Multiple Classifier Systems, Fifth International Workshop, MCS 2004, Proceedings*, 9-11 June 2004, Cagliari, Italy; F. Roli, J. Kittler, and T. Windeatt (eds.).  *Lecture Notes in Computer Science*, vol. 3077. Berlin: Springer, 334-343.
+molecules](https://doi.org/10.1007/978-3-540-25966-4_33).  *Multiple Classifier Systems, Fifth International Workshop, MCS 2004, Proceedings*, 9-11 June 2004, Cagliari, Italy; F. Roli, J. Kittler, and T. Windeatt (eds.).  *Lecture Notes in Computer Science*, vol. 3077. Berlin: Springer, 334-343.  :lock:
 
    - This is by far the most frequently cited conference paper I have co-authored.
 

@@ -1,24 +1,22 @@
-# Christopher Tong List of Selected Publications and Abstracts
-
-## Statistical Applications
+# Statistical Applications
 
 Grouped in the following categories: veterinary microbiology; medical imaging; mass spectrometry.
 
-### Veterinary Microbiology
+## Veterinary Microbiology
 
  <img src="lam_cover.gif" width="110">
  
-#### Journal Publications (Refereed)
+### Journal Publications (Refereed)
 
 - A. L. Ingebritson, C. P. Gibbs, C. Tong, and G. B. Srinivas, 2015:  [A PCR detection method for testing mycoplasma contamination of veterinary vaccines and
 biological products](https://doi.org/10.1111/lam.12355).  *Letters in Applied Microbiology*, **60**: 174-180.
 
-#### Conference Abstract
+### Conference Abstract
 
 - J. V. Warg, K. Snekvik, C. Loiacono, and C. Tong, 2017:  Aquatic animal disease proficiency testing added to the U.S. National Animal Health Laboratory 
 Network.  *European Association of Fish Pathologists, 18th International Conference on Diseases of Fish and Shellfish*, 4-8 September 2017, Belfast, N.I., U.K.  179-P.
 
-### Medical Imaging
+## Medical Imaging
 
 Modalities:  Ultrasound (B-mode and Doppler), MRI, CT, PET.
 
@@ -26,7 +24,7 @@ Therapeutic areas:  cardiovascular diseases, steroids, oncology.
 
 <img src="journal_steroids.gif" width="110"> <img src="jnm_cover.gif" width="110"> <img src="journal_neo.jpg" width="110"> <img src="journal_athero.gif" width="110"> <img src="journal_jala.gif" width="110">
 
-#### Journal Publications (Refereed)
+### Journal Publications (Refereed)
 
 - K. Azer, M. C. Desiderio, C. Tong, M. Bunzel, B. R. Campbell, D. Shevell, and M. Walker III, 2010: [High throughput Doppler toolbox for preclinical 
 drug development](https://doi.org/10.1016/j.jala.2009.12.002).  *Journal of the Association for Laboratory Automation*, **15**: 287-296.
@@ -48,7 +46,7 @@ inflammation imaging with 18F-FDG PET:  carotid, iliac and femoral uptake reprod
 of anabolic steroid growth effects](https://doi.org/10.1016/j.steroids.2007.12.011).  *Steroids*, **73**:  430-440.  :lock:
 
 
-#### Conference Abstracts
+### Conference Abstracts
 
 - R. S. Sevilla, K. A. Bettano, B. B. Haines, M. Chenard, C. Ware, M. H. Angagaw, C. T. Winkelmann, C. Tong, J. F. Reilly, C. Sur, and W. Zhang, 2009:  [Volumetric 
 quantification of lung tumors using micro-CT in complex genetically engineered mouse models](wmic2009ex.PNG).  *2009 World Molecular Imaging Congress*, 23-26 September 2009, 
@@ -82,20 +80,20 @@ hemodynamic analysis](https://meetings.siam.org/sess/dsp_talk.cfm?p=23499). *Soc
 analysis of medical imaging and radiotelemetry signals](jsm2006excerpt.PNG). *Joint Statistical Meetings 2006*, 6-10 August 2006, Seattle, Washington. 
 
 
-### Mass Spectrometry
+## Mass Spectrometry
 
-#### Conference Paper (Refereed)
+### Conference Paper (Refereed)
 
 - C. Tong and V. Svetnik, 2002:  [Novelty detection in mass spectral data using a support vector machine method](excerpt_interface2002.pdf).  *Thirty-fourth Interface Symposium*, 
 17-20 April 2002, Montreal, Quebec, Canada. *Computing Science and Statistics*, **34**: 515-521.
 
-#### Conference Abstract
+### Conference Abstract
 
 - G. S. Jackson, L. A. Spence, D. Elmore, B. R. Martin, C. Tong, G. McCabe, M. A. Rounds, and C. M. Weaver, 2002:  [Development of a precise, accurate, and 
 rapid measure of bone resorption using accelerator mass spectrometry](faseb2002excerpt.PNG). *Experimental Biology 2002*, 20-24 April 2002, New Orleans, Louisiana. *FASEB 
 Journal*, **16** (4), A224.
 
-### Notes
+## Notes
 
 FASEB = Federation of American Societies for Experimental Biology.
 

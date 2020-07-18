@@ -1,7 +1,4 @@
-# Christopher Tong List of Selected Publications and Abstracts
-
-
-## Philosophy and Principles of Statistical Practice
+# Philosophy and Principles of Statistical Practice
 
 ![American Statistician cover](TASmar2019coverCLN.PNG) ![Significance cover](August-cover-web.png)
 

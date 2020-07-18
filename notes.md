@@ -16,7 +16,7 @@ Other sites maintain even less complete and less accurate lists of my scholarly 
 
 - [Publons](https://publons.com/researcher/2874573/christopher-tong/).  ResearcherID:  A-5761-2009.
 
-- [Orcid](http://orcid.org/0000-0003-0770-3270):  0000-0003-0770-3270.
+- [ORCID](http://orcid.org/0000-0003-0770-3270):  0000-0003-0770-3270.
 
 - [Scopus](https://www.scopus.com/authid/detail.uri?authorId=35796514400):  Author ID: 35796514400.
 

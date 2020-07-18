@@ -1,4 +1,4 @@
-Arranged by topic.  Links are provided to Digital Object Identifiers (DOI)s whenever possible.  Links to items behind a paywall are denoted by :lock:.  These listings are by no means complete.  Additional [notes](notes.md).
+Arranged by topic.  Links are provided to Digital Object Identifiers (DOIs) whenever possible.  Links to items behind a paywall are denoted by :lock:.  These listings are by no means complete.  Additional [notes](notes.md).
 
 # Gyrostats
 

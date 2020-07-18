@@ -1,4 +1,4 @@
-Arranged by topic.  Links are provided to DOIs whenever possible.  Links to items behind a paywall are denoted by :lock:.
+Arranged by topic.  Links are provided to DOIs whenever possible.  Links to items behind a paywall are denoted by :lock:.  These listings are by no means complete.  Additional [notes](notes.md).
 
 # Gyrostats
 
@@ -40,8 +40,3 @@ Low-order models in the form of coupled gyrostats, applied to 2D and 3D Rayleigh
 # Miscellaneous Correspondence and Commentary
 
 - [See listing](misc.md)
-
-
-## Notes
-
-This compilation is incomplete.  Most notably, contributions to the newsletters of the Nevada Chapter of the American Statistical Assocation, and the Mathematical Assocation of America's Special Interest Group on Mathematics in Business, Industry and Government, have been omitted.  A number of presentations and miscellaneous ephemera have also been omitted.

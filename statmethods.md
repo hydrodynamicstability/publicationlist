@@ -1,10 +1,8 @@
-# Christopher Tong List of Selected Publications and Abstracts
-
-## Statistical Methodology
+# Statistical Methodology
 
 With particular focus on: concordance correlation coefficient; alternative methods for simple linear regression; mean kinetic temperature.
 
-### Conference Papers (Unrefereed)
+## Conference Papers (Unrefereed)
 
 - C. Tong and A. Lock, 2015:  [A computational procedure for mean kinetic temperature using unequally spaced data](https://www.academia.edu/19390751/A_computational_procedure_for_mean_kinetic_temperature_using_unequally_spaced_data).  *Joint Statistical Meetings 2015*, 
 8-13 August 2015, Seattle, WA.  *American Statistical Association 2015 Proceedings*, Biopharmaceutical Section, 2065-2070.

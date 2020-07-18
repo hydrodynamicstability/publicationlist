@@ -1,12 +1,10 @@
-# Christopher Tong List of Selected Publications and Abstracts
-
-## Theoretical Modeling of Hydrodynamics
+# Theoretical Modeling of Hydrodynamics
 
 Low-order models in the form of coupled gyrostats, applied to 2D and 3D Rayleigh-Benard convection (including either spontaneously-generated or externally-forced vertical shear), magnetoconvection, and other hydrodynamic flows.
 
 <img src="journal_pof.jpg" width="128"> <img src="iutam_cover.jpg" width="110"> <img src="journal_jas.jpg" width="125"> <img src="journal_pre.gif" width="125"> <img src="journal_npg.jpg" width="125"> 
 
-### Journal Publications (Refereed)
+## Journal Publications (Refereed)
 
 - C. Tong and A. Gluhovsky, 2008:  [Gyrostatic extensions of the Howard-Krishnamurti model of thermal convection with shear](https://doi.org/10.5194/npg-15-71-2008).  *Nonlinear Processes in Geophysics*, **15**: 71-79.
 
@@ -17,7 +15,7 @@ Low-order models in the form of coupled gyrostats, applied to 2D and 3D Rayleigh
 
 - A. Gluhovsky and C. Tong, 1999:  [The structure of energy conserving low-order models](https://doi.org/10.1063/1.869883).  *Physics of  Fluids*, **11**: 334-343.  :lock:
 
-### Conference Papers (Unrefereed)
+## Conference Papers (Unrefereed)
 
 - A. Gluhovsky, C. Tong, and E. Agee, 2001:  [Energy conserving low-order models for potential vorticity dynamics and convection with shear](https://ams.confex.com/ams/13FLUID/webprogram/Paper21040.html).  *American Meteorological Society 13th Conference on Atmospheric and Oceanic Fluid Dynamics*, 4-8 June 2001, Breckenridge, Colorado, 117-121.
 
@@ -27,7 +25,7 @@ Low-order models in the form of coupled gyrostats, applied to 2D and 3D Rayleigh
 
 - A. Gluhovsky and C. Tong, 2000:  [Low-order models of a sheared convective boundary layer](aspen2000.pdf).  *American Meteorological Society 14th Symposium on Boundary Layer and Turbulence*, 7-11 August 2000, Aspen, Colorado, 206-209.
 
-### Conference Abstracts (Unrefereed)
+## Conference Abstracts (Unrefereed)
 
 - C. Tong and A. Gluhovsky, 2002:  [An energy-conserving low-order model for 3D thermal convection](http://flux.aps.org/meetings/YR02/MAR02/baps/abs/S270005.html).  *Annual March Meeting of the American Physical Society*, 18-22 March 2002, Indianapolis, Indiana, A27.5.  *Bulletin of the American Physical Society*, **47** (1), 107.
 
@@ -42,7 +40,7 @@ Low-order models in the form of coupled gyrostats, applied to 2D and 3D Rayleigh
 - A. Gluhovsky and C. Tong, 1998:  [The structure of energy conserving low-order models in geophysical fluid dynamics](rossby100.pdf). *The Rossby-100 Symposium*, 8-12 June 1998, Stockholm, Sweden, **1**, 128-130.
 
 
-### Letters to the Editor
+## Letters to the Editor
 
 - A. Gluhovsky and C. Tong, 2014:  [Comments on "Analogies of ocean/atmosphere rotating fluid dynamics with gyroscopes:  teaching opportunities"](https://doi.org/10.1175/BAMS-D-13-00166.1).  *Bulletin of the American Meteorological Society*, **95**: 445-446.
 

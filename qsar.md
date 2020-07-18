@@ -1,12 +1,10 @@
-# Christopher Tong List of Selected Publications and Abstracts
-
-## Empirical Modeling of Quantitative Structure-Activity Relationships (QSAR)
+# Empirical Modeling of Quantitative Structure-Activity Relationships (QSAR)
 
 Machine learning methods used: random forest; stochastic gradient boosting; association rule learning.
 
 <img src="journal_jcics.jpg" width="125"> <img src="mcs2004cover.jpg" width="110"> <img src="journal_jcim.jpg" width="125"> <img src="journal_sadm.gif" width="128">
 
-### Journal Publications (Refereed)
+## Journal Publications (Refereed)
 
 - J. Ma, C. Tong, A. Liaw, R. Sheridan, J. Szumiloski, and V. Svetnik, 2009:  [Generating hypotheses about molecular structure-activity relationships (SARs) by 
 solving an optimization problem](https://doi.org/10.1002/sam.10040).  *Statistical Analysis and Data Mining*, **2**: 161-174.  :lock:
@@ -21,14 +19,14 @@ compound classification and QSAR modeling](https://doi.org/10.1021/ci034160g). *
 
   - This is by far the most frequently cited journal paper I have co-authored.
 
-### Conference Papers (Refereed)
+## Conference Papers (Refereed)
 
 - V. Svetnik, A. Liaw, C. Tong, and T. Wang, 2004:  [Application of Breiman's random forest to modeling structure-activity relationships of pharmaceutical 
 molecules](https://doi.org/10.1007/978-3-540-25966-4_33).  *Multiple Classifier Systems, Fifth International Workshop, MCS 2004, Proceedings*, 9-11 June 2004, Cagliari, Italy; F. Roli, J. Kittler, and T. Windeatt (eds.).  *Lecture Notes in Computer Science*, vol. 3077. Berlin: Springer, 334-343.  :lock:
 
    - This is by far the most frequently cited conference paper I have co-authored.
 
-### Conference Papers (Unrefereed)
+## Conference Papers (Unrefereed)
 
 - C. Tong, V. Svetnik, and A. Liaw, 2003:  [Quantitative structure-activity-relationship modeling using Leo Breiman's random forest](JSM2003-000025.pdf). 
 *Joint Statistical Meetings 2003*, 3-7 August 2003, San Francisco, California.  *American Statistical Association 2003 Proceedings*, Section on 
@@ -36,7 +34,7 @@ Physical and Engineering Sciences, 4263-4266.
 
   - Runner-up for the JSM 2003 Oustanding Presentation Award, from the ASA Section on Physical and Engineering Sciences.
 
-### Conference Abstracts
+## Conference Abstracts
 
 - M. Torrent, C. Tong, A. Liaw, R. Nachbar, Y. Gao, R. Mosley, and C. Culberson, 2007:  Molecular modeling-assisted attenuation of undesirable PXR 
 activity.  *In Silico ADMET Conference:  The Role of Protein-Structure Information in ADMET Prediction*, 16-17 May 2007, London, U.K.

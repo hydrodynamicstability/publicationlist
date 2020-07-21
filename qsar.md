@@ -28,6 +28,9 @@ molecules](https://doi.org/10.1007/978-3-540-25966-4_33).  *Multiple Classifier 
 
 ## Conference Papers (Unrefereed)
 
+- V. Svetnik, A. Liaw, and C. Tong, 2004:  [Variable selection in random forest with application to quantitative structure-activity relationship](https://www.researchgate.net/profile/Vladimir_Svetnik/publication/228572061_Variable_Selection_in_Random_Forest_with_Application_to_Quantitative_Structure-Activity_Relationship/links/00b495321cca0aa7d3000000/Variable-Selection-in-Random-Forest-with-Application-to-Quantitative-Structure-Activity-Relationship.pdf).  *IIASS International School on Neural Nets "E. R. Caianiello" 7th Course:  Ensemble Methods for Learning Machines*, 22-28 September 2002, Vietri sul Mare, Salerno, Italy.  (I am not certain of the accuracy of this citation.)
+
+
 - C. Tong, V. Svetnik, and A. Liaw, 2003:  [Quantitative structure-activity-relationship modeling using Leo Breiman's random forest](JSM2003-000025.pdf). 
 *Joint Statistical Meetings 2003*, 3-7 August 2003, San Francisco, California.  *American Statistical Association 2003 Proceedings*, Section on 
 Physical and Engineering Sciences, 4263-4266.

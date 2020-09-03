@@ -11,7 +11,7 @@ Arranged by topic.  Links are provided to Digital Object Identifiers (DOIs) when
 
 # Statistical Methodology
 
-With particular focus on:  concordance correlation coefficient; alternative methods for simple linear regression; mean kinetic temperature.
+With particular focus on:  concordance correlation coefficient; alternative methods for simple linear regression; mean kinetic temperature; boxdot plots.
 
 - [See listing](statmethods.md)
 

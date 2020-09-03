@@ -1,6 +1,6 @@
 # Statistical Methodology
 
-With particular focus on: concordance correlation coefficient; alternative methods for simple linear regression; mean kinetic temperature.
+With particular focus on: concordance correlation coefficient; alternative methods for simple linear regression; mean kinetic temperature; boxdot plots.
 
 ## Conference Papers (Unrefereed)
 

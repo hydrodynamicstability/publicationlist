@@ -1,5 +1,12 @@
 # Miscellaneous Correspondence and Commentary
 
+## Book Review
+
+- C. Tong, 2005:  [Book review](https://doi.org/10.1080/07408170500232784) of *Methods of Multivariate Analysis*, second edition, by Alvin C. Rencher.  *IIE Transactions*, **37**, 1083-1085.  :lock:
+
+  - IIE = Institute of Industrial Engineers.
+
+
 ## Letters to the Editor
 
 - C. Tong, 2015:  [Response](https://magazine.amstat.org/blog/2015/05/01/sciencenotartii/) to Mark van der Laan, "Statistics as a science, not an art:  the way to survive in data science".  *Amstat News*, issue 455 (May 2015), 34-35.
@@ -19,14 +26,6 @@
 - C. Tong, 1996:  [Torsional pendulums and SQUIDs](https://doi.org/10.1119/1.18352).  *American Journal of Physics*, **64**: 1227-1228.  :lock:
 
 ## Other
-
-- D. Shera and C. Tong, 2017:  [Graph of the month](biometrics_Oct2017excerpt.pdf).  American Statistical Association *Biometrics Section Newsletter*, October 2017.
-
-  - Accompanying code available [here](https://github.com/hydrodynamicstability/boxdot.plot).
-
-- C. Tong, 2005:  [Book review](https://doi.org/10.1080/07408170500232784) of *Methods of Multivariate Analysis*, second edition, by Alvin C. Rencher.  *IIE Transactions*, **37**, 1083-1085.  :lock:
-
-  - IIE = Institute of Industrial Engineers.
 
 - C. Tong, 1995:  [Answer](https://doi.org/10.1119/1.17963) to Question #4, "Is there a physics application that is best analyzed in terms of continued fractions?".  *American Journal of Physics*, **63**: 109.
 

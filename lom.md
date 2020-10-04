@@ -42,8 +42,8 @@ Low-order models in the form of coupled gyrostats, applied to 2D and 3D Rayleigh
 
 ## Letters to the Editor
 
-- A. Gluhovsky and C. Tong, 2014:  [Comments on "Analogies of ocean/atmosphere rotating fluid dynamics with gyroscopes:  teaching opportunities"](https://doi.org/10.1175/BAMS-D-13-00166.1).  *Bulletin of the American Meteorological Society*, **95**: 445-446.
+- A. Gluhovsky and C. Tong, 2014:  [Comments on "Analogies of ocean/atmosphere rotating fluid dynamics with gyroscopes:  teaching opportunities"](https://doi.org/10.1175/BAMS-D-13-00166.1).  [Response to Thomas W.N. Haine and D.A. Cherian.]  *Bulletin of the American Meteorological Society*, **95**: 445-446.
 
-- A. Gluhovsky and C. Tong, 2012:  [Comments on "Modeling of chaotic motion of gyrostats in resistant environment on the base of dynamical systems with strange attractors"](https://doi.org/10.1016/j.cnsns.2011.11.019).  *Communications in Nonlinear Science and Numerical Simulation*, **17**: 3112-3113.  :lock:
+- A. Gluhovsky and C. Tong, 2012:  [Comments on "Modeling of chaotic motion of gyrostats in resistant environment on the base of dynamical systems with strange attractors"](https://doi.org/10.1016/j.cnsns.2011.11.019).  [Response to Anton V. Doroshin.]  *Communications in Nonlinear Science and Numerical Simulation*, **17**: 3112-3113.  :lock:
 
 <img src="journal_csns.gif" width="121"> <img src="bams_cover.jpg" width="125">

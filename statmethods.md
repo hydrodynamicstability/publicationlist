@@ -23,6 +23,8 @@ Washington, DC.  *American Statistical Association 2009 Proceedings*, Section on
   - Accompanying code for the 2011 paper above is also relevant to this 2009 paper.
   
   - Received honorable mention, JSM 2009 Oustanding Presentation Award, from the ASA Section on Physical and Engineering Sciences.
+  
+  - Errata:  p. 2887, Sec. 5, last line of second paragraph:  replace "unity" with "invariant".
 
 - S. Wang, S. Ray, and C. Tong, 2009:  Weighted Fourier analysis of longitudinal data.  *Joint Statistical Meetings 2009*, 1-6 August 2009, 
 Washington, DC.  *American Statistical Association 2009 Proceedings*, Biopharmaceutical Section, 2821-2834.

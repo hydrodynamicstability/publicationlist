@@ -15,6 +15,8 @@ Low-order models in the form of coupled gyrostats, applied to 2D and 3D Rayleigh
 
 - A. Gluhovsky and C. Tong, 1999:  [The structure of energy conserving low-order models](https://doi.org/10.1063/1.869883).  *Physics of  Fluids*, **11**: 334-343.  :lock:
 
+  - Errata:  p. 342, Fig. 3 caption, line 3:  replace "Eq. (26)" with "Eq. (28)".
+
 ## Conference Papers (Unrefereed)
 
 - A. Gluhovsky, C. Tong, and E. Agee, 2001:  [Energy conserving low-order models for potential vorticity dynamics and convection with shear](https://ams.confex.com/ams/13FLUID/webprogram/Paper21040.html).  *American Meteorological Society 13th Conference on Atmospheric and Oceanic Fluid Dynamics*, 4-8 June 2001, Breckenridge, Colorado, 117-121.

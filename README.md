@@ -1,8 +1,8 @@
-Arranged by topic.  Links are provided to Digital Object Identifiers (DOIs) whenever possible.  Links to items behind a paywall are denoted by :lock:.  These listings are by no means complete.  Additional [notes](notes.md).
+Arranged by topic.  Links are provided to Digital Object Identifiers (DOIs) whenever possible.  Links to items behind a paywall are denoted by :lock:.  These listings are by no means complete.  
 
 # Gyrostats
 
-- C. Tong, 2009:  [Lord Kelvin's gyrostat and its analogs in physics, including the Lorenz model](https://doi.org/10.1119/1.3095813).  *American Journal of Physics*, **77**, 526-537.  :lock:
+- C. Tong, 2009:  [Lord Kelvin's gyrostat and its analogs in physics, including the Lorenz model](https://doi.org/10.1119/1.3095813).  *American Journal of Physics*, **77**: 526-537.  :lock:
 
 
 # Philosophy and Principles of Statistical Practice
@@ -40,3 +40,5 @@ Low-order models in the form of coupled gyrostats, applied to 2D and 3D Rayleigh
 # Miscellaneous Correspondence and Commentary
 
 - [See listing](misc.md)
+
+Additional [notes](notes.md).

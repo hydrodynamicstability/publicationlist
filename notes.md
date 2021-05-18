@@ -20,4 +20,6 @@ Other sites maintain even less complete and less accurate lists of my scholarly 
 
 - [Scopus](https://www.scopus.com/authid/detail.uri?authorId=35796514400):  Author ID: 35796514400.
 
+- [Dimensions](https://app.dimensions.ai/details/entities/publication/author/ur.014115160135.43).
+
 - [Mendeley](https://www.mendeley.com/authors/35796514400/).

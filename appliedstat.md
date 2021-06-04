@@ -8,6 +8,12 @@ Grouped in the following categories: veterinary microbiology; medical imaging; m
  
 ### Journal Publications (Refereed)
 
+- M. M. Reising, C. Tong, B. Harris, K. L. Toohey-Kurth, B. Crossley, D. Mulrooney, R. L. Tallmadge, K. R. Schumann, A. B. Lock, and C. M. Loiacono, 2021:  [A review of guidelines for evaluating a minor modification to a validated assay](https://doi.org/10.20506/rst.40.1.3219).  *Revue Scientifique et Technique de l'Office International des Epizooties* (OIE Scientific and Technical Review), **40** (1):  217-226.
+
+  - Published in the theme issue *Diagnostic Test Validation Science: A Key Element for Effective Detection and Control of Infectious Animal Diseases*.
+
+  - OIE = World Organization for Animal Health.
+
 - A. L. Ingebritson, C. P. Gibbs, C. Tong, and G. B. Srinivas, 2015:  [A PCR detection method for testing mycoplasma contamination of veterinary vaccines and
 biological products](https://doi.org/10.1111/lam.12355).  *Letters in Applied Microbiology*, **60**: 174-180.
 

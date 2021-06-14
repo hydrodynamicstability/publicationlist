@@ -48,6 +48,8 @@ quantitative volumetric micro-computed tomography method to analyze lung tumors 
 - J. H. F. Rudd, K. S. Myers, S. Bansilal, J. Machac, C. A. Pinto, C. Tong, A. Rafique, R. Hargreaves, M. Farkouh, V. Fuster, and Z. A. Fayad, 2008:  [Atherosclerosis 
 inflammation imaging with 18F-FDG PET:  carotid, iliac and femoral uptake reproducibility, quantification methods, and recommendations](https://doi.org/10.2967/jnumed.107.050294).  *Journal of Nuclear Medicine*, **49**:  871-878.
 
+  - This paper was featured on the cover of the journal's June, 2008, issue.
+
 - E. X. Wu, H. Tang, C. Tong, S. B. Heymsfield, and J. R. Vasselli, 2008:  [In vivo MRI quantification of individual muscle and organ volumes for assessment 
 of anabolic steroid growth effects](https://doi.org/10.1016/j.steroids.2007.12.011).  *Steroids*, **73**:  430-440.  :lock:
 

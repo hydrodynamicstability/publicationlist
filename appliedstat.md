@@ -4,7 +4,7 @@ Grouped in the following categories: veterinary microbiology; medical imaging; m
 
 ## Veterinary Microbiology
 
- <img src="lam_cover.gif" width="110">
+ <img src="lam_cover.gif" width="110">  <img src="oie_2021cover.jpg" width="101">
  
 ### Journal Publications (Refereed)
 

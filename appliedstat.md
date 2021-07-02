@@ -65,7 +65,7 @@ Statistics Symposium*, 21-24 June 2009, San Francisco, CA.
 
 - H. Tang, R. H. Chang, D. L. Suresch, L. A. McNamara, C. Tong, B. Misselwitz, D. Zhou, B. M. Connolly, J. Xu, X. Chen, X. Shen, C. Zhang, E. L. Rickes, 
 M. A. Mariano, K. Azer, J. Wang, C. Sur, D. S. Williams, M. Klimas, A. S. Plump, R. J. Hargreaves, and H. Liu, 2009:  [In vivo volumetric MRI in drug discovery: a
-preclinical case study of the ezetimibe therapeutic efficacy on atherosclerosis in the thoracic ascending arterial tree in ApoE-/- mice](https://cds.ismrm.org/protected/09MProceedings/files/00030.pdf).  *International Society 
+preclinical case study of the ezetimibe therapeutic efficacy on atherosclerosis in the thoracic ascending arterial tree in ApoE-/- mice](https://cds.ismrm.org/protected/09MProceedings/PDFfiles/00030.pdf).  *International Society 
 For Magnetic Resonance In Medicine 17th Scientific Meeting and Exhibition*, 18-24 April 2009, Honolulu, Hawaii.  *Proceedings of the International Society For
 Magnetic Resonance In Medicine*, vol. 17, Session:  Coronaries & Aorta:  Lumen & All, 30.
 

@@ -1,5 +1,9 @@
 # Miscellaneous Correspondence and Commentary
 
+## Commentary
+
+- C. Tong, 2021:  The statistical endeavors of Andrew Carnegie.  *Chance*, **34** (4), in press.
+
 ## Book Review
 
 - C. Tong, 2005:  [Book review](https://doi.org/10.1080/07408170500232784) of *Methods of Multivariate Analysis*, second edition, by Alvin C. Rencher.  *IIE Transactions*, **37**, 1083-1085.  :lock:

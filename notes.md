@@ -2,13 +2,15 @@
 
 These listings are my no means complete.  Notable examples of omitted items include:
 
-- Contributions to the newsletters of the Nevada Chapter of the American Statistical Assocation (2017-present), and the Mathematical Assocation of America's Special Interest Group on Mathematics in Business, Industry and Government (2007-2010).
+- Contributions to the newsletters of the Nevada Chapter of the American Statistical Assocation (2017-2021), and the Mathematical Assocation of America's Special Interest Group on Mathematics in Business, Industry and Government (2007-2010), and to the American Statistical Association's Council of Chapters Governing Board's newsletter, *Chapter Chatter* (2021).
 
 - Presentations at the Animal Biologics Statisticians (2010-2012) and the New Jersey Section of the Mathematical Association of America (2003-2009).
 
 - Academic department seminars/colloquia and class guest lectures.
 
 - Publicly available regulatory documents.
+
+- Nonpublic presentations such as those to the Animal Health Institute's Veterinary Biologics Section.
 
 Other sites maintain even less complete and less accurate lists of my scholarly contributions.  My [Academia.edu profile](http://independent.academia.edu/ChristopherTong) hosts a few statistics publications posted by me; my [ResearchGate profile](https://www.researchgate.net/profile/Christopher_Tong) hosts several papers posted by my co-authors.  Other lists of my publications include:
 

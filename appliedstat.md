@@ -87,6 +87,9 @@ hemodynamic analysis](https://meetings.siam.org/sess/dsp_talk.cfm?p=23499). *Soc
 - C. Tong, Y. Tymofyeyev, K. Azer, P. E. Brandish, H. Chen, J. C. Hershey, M. Walker III, B. R. Campbell, K. Fang, D. S. Williams, and A. Coimbra, 2006: [Biomarker 
 analysis of medical imaging and radiotelemetry signals](jsm2006excerpt.PNG). *Joint Statistical Meetings 2006*, 6-10 August 2006, Seattle, Washington. 
 
+### In memoriam
+
+- Dr. [Matthew Walker III](https://engineering.vanderbilt.edu/news/2021/bme-professor-matthew-walker-iii-was-biomedical-design-leader/) (1964-2021), Associate Professor of the Practice, Dept. of Biomedical Engineering; Associate Professor, Dept. of Radiology and Radiological Sciences, Vanderbilt University.
 
 ## Mass Spectrometry
 

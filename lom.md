@@ -49,3 +49,12 @@ Low-order models in the form of coupled gyrostats, applied to 2D and 3D Rayleigh
 - A. Gluhovsky and C. Tong, 2012:  [Comments on "Modeling of chaotic motion of gyrostats in resistant environment on the base of dynamical systems with strange attractors"](https://doi.org/10.1016/j.cnsns.2011.11.019).  [Response to Anton V. Doroshin.]  *Communications in Nonlinear Science and Numerical Simulation*, **17**: 3112-3113.  :lock:
 
 <img src="journal_csns.gif" width="121"> <img src="bams_cover.jpg" width="125">
+
+
+## Principal collaborators
+
+- Dr. [Alexander B. Gluhovsky](https://www.eaps.purdue.edu/people/profile/aglu.html), Professor Emeritus, Dept. of Earth, Atmospheric, and Planetary Sciences, and Dept. of Statistics, Purdue University.
+- Dr. [Ernest M. Agee](https://www.eaps.purdue.edu/people/profile/eagee.html), Professor Emeritus and former Head, Dept. of Earth, Atmospheric, and Planetary Sciences, Purdue University.
+  - [A Golden Academic Adventure](https://www.eaps.purdue.edu/news/articles/2021/1006_agee.html)
+- Dr. [Suzanne M. Zurn-Birkhimer](https://www.purdue.edu/wiep/AboutUs/WIEPAdministration/Dr.Suzanne-Zurn_Birkhimer.html), Associate Director, Women in Engineering Program, Purdue University.
+- Dr. [Daniel T. Dawson II](https://www.eaps.purdue.edu/people/profile/dawson29.html), Assistant Professor, Dept. of Earth, Atmospheric, and Planetary Sciences, Purdue University.

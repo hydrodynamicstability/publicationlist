@@ -1,6 +1,6 @@
 # Miscellaneous Correspondence and Commentary
 
-## Commentary
+## Expository
 
 - C. Tong, 2021:  The statistical endeavors of Andrew Carnegie.  *Chance*, **34** (4), in press.
 

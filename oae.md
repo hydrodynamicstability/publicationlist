@@ -27,4 +27,12 @@ Mechanics*, 25-30 July 1999, Sendai, Japan; H. Wada, T. Takasaka, K. Ikeda, K. O
 - C. L. Talmadge, A. Tubis, C. Tong, and G. R. Long, 1999:  [Temporal behavior of distortion product  otoacoustic emissions](aro1999ex.PNG). *Twenty-second Midwinter Research Meeting 
 of the Association for Research in Otolaryngology*, 13-18 February 1999, St. Petersburg Beach, Florida, 404.   *Association for Research in Otolaryngology Abstracts*, **22**: 102.
 
+## Principal Collaborators
+
+- Dr. [Arnold Tubis](https://www.physics.purdue.edu/people/faculty/atu.php), Professor Emeritus and former Head, Dept. of Physics, Purdue University.
+- Dr. [Glenis R. Long](https://www.gc.cuny.edu/Faculty/Core-Bios/Glenis-R-Long) (1943-2021), Professor Emerita, Program in Speech-Language-Hearing-Sciences, The Graduate Center, City University of New York.
+  - [In memoriam](https://gc.cuny.edu/News/All-News/Detail?id=60041).
+- Dr. Carrick L. Talmadge, Senior Research Scientist II, National Center for Physical Acoustics; and Research Associate Professor of Communication Sciences & Disorders, University of Mississippi.
+- Dr. [Sumitrajit (Sumit) Dhar](https://communication.northwestern.edu/faculty/sumitrajit-dhar/), Professor and former Chair, Dept. of Communication Sciences and Disorders; Fellow, Hugh Knowles Center; and Associate Provost for Faculty, Northwestern University.
+- Dr. [Lauren A. Shaffer](https://www.bsu.edu/academics/collegesanddepartments/spaa/about-us/directory/shafferlauren), Associate Professor and Interim Chair, Dept. of Speech Pathology and Audiology, Ball State University.
 

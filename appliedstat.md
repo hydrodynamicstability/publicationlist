@@ -104,6 +104,10 @@ analysis of medical imaging and radiotelemetry signals](jsm2006excerpt.PNG). *Jo
 rapid measure of bone resorption using accelerator mass spectrometry](faseb2002excerpt.PNG). *Experimental Biology 2002*, 20-24 April 2002, New Orleans, Louisiana. *FASEB 
 Journal*, **16** (4), A224.
 
+### In memoriam
+
+- Mary Ann Rounds (1947-2002), PRIMELab, Dept. of Physics, Purdue University.
+
 ## Notes
 
 FASEB = Federation of American Societies for Experimental Biology.

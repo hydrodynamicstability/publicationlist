@@ -1,8 +1,8 @@
 # Statistical Applications
 
-Grouped in the following categories: veterinary microbiology; medical imaging; mass spectrometry.
+Grouped in the following categories: veterinary microbiology & diagnostics; medical imaging; mass spectrometry.
 
-## Veterinary Microbiology
+## Veterinary Microbiology & Diagnostics
 
  <img src="lam_cover.gif" width="110">  <img src="oie_2021cover.jpg" width="101">
  

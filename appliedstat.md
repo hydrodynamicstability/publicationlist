@@ -50,6 +50,8 @@ inflammation imaging with 18F-FDG PET:  carotid, iliac and femoral uptake reprod
 
   - This paper was featured on the cover of the journal's June, 2008, issue.
 
+  - Errata"  Cathy Anne Pinto, Richard Hargreaves, and I are incorrectly listed as having a dual affiliation with both Mt. Sinai and Merck.  The Mt. Sinai affiliation was incorrect.
+
 - E. X. Wu, H. Tang, C. Tong, S. B. Heymsfield, and J. R. Vasselli, 2008:  [In vivo MRI quantification of individual muscle and organ volumes for assessment 
 of anabolic steroid growth effects](https://doi.org/10.1016/j.steroids.2007.12.011).  *Steroids*, **73**:  430-440.  :lock:
 

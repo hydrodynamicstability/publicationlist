@@ -2,7 +2,10 @@
 
 These listings are my no means complete.  Notable examples of omitted items include:
 
-- Contributions to the newsletters of the Nevada Chapter of the American Statistical Assocation (2017-2021), and the Mathematical Assocation of America's Special Interest Group on Mathematics in Business, Industry and Government (2007-2010), and to the American Statistical Association's Council of Chapters Governing Board's newsletter, *Chapter Chatter* (2021).
+- Contributions to the newsletters of 
+  - Nevada Chapter of the American Statistical Assocation (*Silver State-istics*, 2017-2021)
+  - American Statistical Association's Council of Chapters Governing Board's (*Chapter Chatter*, 2021)
+  - Mathematical Assocation of America's Special Interest Group on Mathematics in Business, Industry and Government (*The BIG Notebook*, 2007-2010).
 
 - Presentations at the Animal Biologics Statisticians (2010-2012) and the New Jersey Section of the Mathematical Association of America (2003-2009).
 
@@ -23,5 +26,3 @@ Other sites maintain even less complete and less accurate lists of my scholarly 
 - [Scopus](https://www.scopus.com/authid/detail.uri?authorId=35796514400):  Author ID: 35796514400.
 
 - [Dimensions](https://app.dimensions.ai/details/entities/publication/author/ur.014115160135.43).
-
-- [Mendeley](https://www.mendeley.com/authors/35796514400/).

@@ -17,7 +17,7 @@ With particular focus on:  concordance correlation coefficient; alternative meth
 
 # Statistical Applications
 
-Grouped in the following categories:  veterinary microbiology; medical imaging; mass spectrometry.
+Grouped in the following categories:  veterinary microbiology & diagnostics; medical imaging; mass spectrometry.
 
 - [See listing](appliedstat.md)
 

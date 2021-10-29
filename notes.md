@@ -4,7 +4,7 @@ These listings are my no means complete.  Notable examples of omitted items incl
 
 - Contributions to the newsletters of 
   - Nevada Chapter of the American Statistical Assocation (*Silver State-istics*, 2017-2021)
-  - American Statistical Association's Council of Chapters Governing Board's (*Chapter Chatter*, 2021)
+  - American Statistical Association's Council of Chapters Governing Board (*Chapter Chatter*, 2021)
   - Mathematical Assocation of America's Special Interest Group on Mathematics in Business, Industry and Government (*The BIG Notebook*, 2007-2010).
 
 - Presentations at the Animal Biologics Statisticians (2010-2012) and the New Jersey Section of the Mathematical Association of America (2003-2009).

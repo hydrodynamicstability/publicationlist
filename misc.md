@@ -2,7 +2,9 @@
 
 ## Expository
 
-- C. Tong, 2021:  The statistical endeavors of Andrew Carnegie.  *Chance*, **34** (4), in press.
+- C. Tong, 2021:  The statistical endeavors of Andrew Carnegie.  *Chance*, **34** (4), 12-17.
+
+  - Erratum:  Beginning of third to last paragraph on the last page should read:  "By contemporary standards, Andrew Carnegie is not a statistician, nor would his modern counterparts--CEOs of moder companies--be considered statisticians..."
 
 ## Book Review
 

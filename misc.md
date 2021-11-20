@@ -1,10 +1,13 @@
 # Miscellaneous Correspondence and Commentary
 
+ <img src="ajpcover.PNG" width="110">  <img src="iie_trans_cover.gif" width="108"> <img src="CHANCEcover.png" width="115">
+
+
 ## Expository
 
-- C. Tong, 2021:  The statistical endeavors of Andrew Carnegie.  *Chance*, **34** (4), 12-17.
+- C. Tong, 2021:  [The statistical endeavors of Andrew Carnegie](https://doi.org/10.1080/09332480.2021.2003633).  *Chance*, **34** (4), 12-17.  :lock:
 
-  - Erratum:  Beginning of third to last paragraph on the last page should read:  "By contemporary standards, Andrew Carnegie is not a statistician, nor would his modern counterparts--CEOs of moder companies--be considered statisticians..."
+  - Erratum:  The beginning of the third to last paragraph on the last page should read:  "By contemporary standards, Andrew Carnegie is not a statistician, nor would his modern counterparts--CEOs of modern companies--be considered statisticians..."
 
 ## Book Review
 

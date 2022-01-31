@@ -9,6 +9,8 @@
 
   - Erratum:  The beginning of the third to last paragraph on the last page should read:  "By contemporary standards, Andrew Carnegie is not a statistician, nor would his modern counterparts--CEOs of modern companies--be considered statisticians..."
 
+  - This article is discussed in Episode 216 of the *Stats+Stories* podcast, [Carnegie the Statistician](https://statsandstories.net/economics1/carnegie-the-statistician) (Jan. 27, 2022).
+
 ## Book Review
 
 - C. Tong, 2005:  [Book review](https://doi.org/10.1080/07408170500232784) of *Methods of Multivariate Analysis*, second edition, by Alvin C. Rencher.  *IIE Transactions*, **37**, 1083-1085.  :lock:

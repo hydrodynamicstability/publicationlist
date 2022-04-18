@@ -11,6 +11,8 @@
 
   - This article is discussed in Episode 216 of the *Stats+Stories* podcast, [Carnegie the Statistician](https://statsandstories.net/economics1/carnegie-the-statistician) (Jan. 27, 2022).
 
+  - Presented (virtually) at the *Nevada Statistics Symposium*, 25 March 2022.  Notes from that presentation may be found [here](https://hydrodynamicstability.github.io/AndrewCarnegie/).
+
 ## Book Review
 
 - C. Tong, 2005:  [Book review](https://doi.org/10.1080/07408170500232784) of *Methods of Multivariate Analysis*, second edition, by Alvin C. Rencher.  *IIE Transactions*, **37**, 1083-1085.  :lock:

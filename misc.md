@@ -40,3 +40,5 @@
 
 - C. Tong, 1995:  [Answer](https://doi.org/10.1119/1.17963) to Question #4, "Is there a physics application that is best analyzed in terms of continued fractions?".  [Repsonse to Dwight E. Neuenschwander.]  *American Journal of Physics*, **63**: 109.
 
+
+(c) 2022 by Christopher Tong

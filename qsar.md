@@ -64,3 +64,6 @@ using a new machine learning tool--random forest](predictive_adme_excerpt.PNG). 
 ADME = Absorption, Distribution, Metabolism, and Excretion.  
 
 ADMET = same, except add Toxicity.
+
+
+(c) 2022 by Christopher Tong

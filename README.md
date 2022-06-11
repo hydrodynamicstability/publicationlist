@@ -42,3 +42,5 @@ Low-order models in the form of coupled gyrostats, applied to 2D and 3D Rayleigh
 - [See listing](misc.md)
 
 Additional [notes](notes.md).
+
+(c) 2022 by Christopher Tong

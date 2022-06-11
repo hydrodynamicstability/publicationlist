@@ -40,3 +40,6 @@ Washington, DC.  *American Statistical Association 2009 Proceedings*, Biopharmac
   - [Larger version](quantileboxplotLARGE.PNG) of the graph in the above article.
   
   - Accompanying code available [here](https://github.com/hydrodynamicstability/boxdot.plot).
+
+
+(c) 2022 by Christopher Tong

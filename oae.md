@@ -36,3 +36,5 @@ of the Association for Research in Otolaryngology*, 13-18 February 1999, St. Pet
 - Dr. [Sumitrajit (Sumit) Dhar](https://communication.northwestern.edu/faculty/sumitrajit-dhar/), Professor and former Chair, Dept. of Communication Sciences and Disorders; Fellow, Hugh Knowles Center; and Associate Provost for Faculty, Northwestern University.
 - Dr. [Lauren A. Shaffer](https://www.bsu.edu/academics/collegesanddepartments/spaa/about-us/directory/shafferlauren), Associate Professor and Interim Chair, Dept. of Speech Pathology and Audiology, Ball State University.
 
+
+(c) 2022 by Christopher Tong

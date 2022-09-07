@@ -17,7 +17,9 @@ Grouped in the following categories: veterinary microbiology & diagnostics; medi
 - A. L. Ingebritson, C. P. Gibbs, C. Tong, and G. B. Srinivas, 2015:  [A PCR detection method for testing mycoplasma contamination of veterinary vaccines and
 biological products](https://doi.org/10.1111/lam.12355).  *Letters in Applied Microbiology*, **60**: 174-180.
 
-### Conference Abstract
+### Conference Abstracts
+
+- K. Subramaniam, D. V. Megarani, J. A. Vann, C. Tong, J. V. Warg, and T. B. Waltzek, 2022:  Interlaboratory reproducibility of a TaqMan RT-qPCR assay for detection of tilapia lake virus.  *Fish Health Section of the American Fisheries Society, 9th International Symposium on Aquatic Animal Health*, 5-8 Sept 2022, Santiago, Chile, p. 278.
 
 - J. V. Warg, K. Snekvik, C. Loiacono, and C. Tong, 2017:  Aquatic animal disease proficiency testing added to the U.S. National Animal Health Laboratory 
 Network.  *European Association of Fish Pathologists, 18th International Conference on Diseases of Fish and Shellfish*, 4-8 September 2017, Belfast, N.I., U.K.  179-P.

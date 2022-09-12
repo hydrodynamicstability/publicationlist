@@ -27,6 +27,6 @@ Other sites maintain even less complete and less accurate lists of my scholarly 
 
 - [Dimensions](https://app.dimensions.ai/details/entities/publication/author/ur.014115160135.43).
 
-
+Finally, note that I have two MR Author IDs on [MathSciNet](https://mathscinet.ams.org/):  644600 and 969588.
 
 (c) 2022 by Christopher Tong

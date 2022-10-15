@@ -30,7 +30,7 @@ of the Association for Research in Otolaryngology*, 13-18 February 1999, St. Pet
 ## Principal Collaborators
 
 - Dr. [Arnold Tubis](https://www.physics.purdue.edu/people/faculty/atu.php), Professor Emeritus and former Head, Dept. of Physics, Purdue University.
-- Dr. [Glenis R. Long](https://www.gc.cuny.edu/Faculty/Core-Bios/Glenis-R-Long) (1943-2021), Professor Emerita, Program in Speech-Language-Hearing-Sciences, The Graduate Center, City University of New York.
+- Dr. Glenis R. Long (1943-2021), Professor Emerita, Program in Speech-Language-Hearing-Sciences, The Graduate Center, City University of New York.
   - [In memoriam](https://www.gc.cuny.edu/news/memoriam-professor-emerita-glenis-r-long).
 - Dr. Carrick L. Talmadge, Senior Research Scientist II, National Center for Physical Acoustics; and Research Associate Professor of Communication Sciences & Disorders, University of Mississippi.
 - Dr. [Sumitrajit (Sumit) Dhar](https://communication.northwestern.edu/faculty/sumitrajit-dhar/), Professor and former Chair, Dept. of Communication Sciences and Disorders; Fellow, Hugh Knowles Center; and Associate Provost for Faculty, Northwestern University.

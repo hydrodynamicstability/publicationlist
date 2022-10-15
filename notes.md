@@ -13,13 +13,13 @@ These listings are my no means complete.  Notable examples of omitted items incl
 
 - Publicly available regulatory documents.
 
-- Nonpublic presentations such as those to the Animal Health Institute's Veterinary Biologics Section.
+- Nonpublic presentations such as those to the Animal Health Institute's Veterinary Biologics Section, or the Institute for International Cooperation in Animal Biologics.
 
 Other sites maintain even less complete and less accurate lists of my scholarly contributions.  My [Academia.edu profile](http://independent.academia.edu/ChristopherTong) hosts a few statistics publications posted by me; my [ResearchGate profile](https://www.researchgate.net/profile/Christopher_Tong) hosts several papers posted by my co-authors.  Other lists of my publications include:
 
 - [Google Scholar](https://scholar.google.com/citations?user=TKoJwycAAAAJ&hl=en).
 
-- [Publons](https://publons.com/researcher/2874573/christopher-tong/).  ResearcherID:  A-5761-2009.
+- [Web of Science](https://www.webofscience.com/wos/author/record/1324289).  ResearcherID:  A-5761-2009.
 
 - [ORCID](http://orcid.org/0000-0003-0770-3270):  0000-0003-0770-3270.
 

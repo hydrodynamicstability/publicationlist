@@ -59,6 +59,8 @@ pharmaceutical molecules](interface2005ex.PNG). *Joint Annual Meeting of the Int
 - C. Tong, V. Svetnik, A. Liaw, R. P. Sheridan, J. C. Culberson, B. P. Feuston, R. Evers, and D. Hartley, 2003:  [QSAR prediction of ADME parameters 
 using a new machine learning tool--random forest](predictive_adme_excerpt.PNG).  *Predictive ADME*, 17-18 November 2003, Boston, Massachusetts.
 
+  - Media coverage:  "Christopher Tong...discussed the application of the machine learning tool Random Forest for QSAR prediction of ADME parameters.  This approach was found to be an accurate means of predicting blood-brain barrier permeability and P-gp transport of test compounds, while resisting overfitting and being robust to parameter tuning and noise."  -- C. Watson, *Drug Discovery Today:  Biosilico*, 2 (2): 55-56 (March 2004).
+
 ### Notes
 
 ADME = Absorption, Distribution, Metabolism, and Excretion.  

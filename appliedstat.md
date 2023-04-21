@@ -8,6 +8,8 @@ Grouped in the following categories: veterinary microbiology & diagnostics; medi
  
 ### Journal Publications (Refereed)
 
+- M. E. Srednik, B. R. Morningstar-Shaw, J. A. Hicks, C. Tong, T. A. Mackie, and L. K. Schlater, 2023:  [Whole-genome sequencing and phylogenetic analysis capture the emergence of a multi-drug resistant Salmonella enterica serovar Infantis clone from diagnostic animal samples in the United States](https://www.frontiersin.org/articles/10.3389/fmicb.2023.1166908/abstract).  *Frontiers in Microbiology*, **14**, in press.
+
 - M. M. Reising, C. Tong, B. Harris, K. L. Toohey-Kurth, B. Crossley, D. Mulrooney, R. L. Tallmadge, K. R. Schumann, A. B. Lock, and C. M. Loiacono, 2021:  [A review of guidelines for evaluating a minor modification to a validated assay](https://doi.org/10.20506/rst.40.1.3219).  *Revue Scientifique et Technique de l'Office International des Epizooties* (OIE Scientific and Technical Review), **40** (1):  217-226.
 
   - Published in the theme issue *Diagnostic Test Validation Science: A Key Element for Effective Detection and Control of Infectious Animal Diseases*.

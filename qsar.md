@@ -17,7 +17,7 @@ modeling](https://doi.org/10.1021/ci0500379). *Journal of Chemical Information a
 - V. Svetnik, A. Liaw, C.  Tong, J. C. Culberson, R. P. Sheridan, and B. P. Feuston, 2003:  [Random forest:  a classification and regression tool for 
 compound classification and QSAR modeling](https://doi.org/10.1021/ci034160g). *Journal of Chemical Information and Computer Sciences*, **43**: 1947-1958.  :lock:
 
-  - This is by far the most frequently cited journal paper I have co-authored.  According to the journal's twitter account (July 16, 2020 [tweet](https://twitter.com/intent/retweet?tweet_id=1283874344305713152)), this is the third most cited paper published by this journal.
+  - This is by far the most frequently cited journal paper I have co-authored.  According to the journal's twitter account (July 16, 2020 [tweet](https://twitter.com/intent/retweet?tweet_id=1283874344305713152)), this was the third most cited paper published by this journal.
 
 ## Conference Papers (Refereed)
 

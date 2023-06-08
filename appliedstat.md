@@ -8,7 +8,7 @@ Grouped in the following categories: veterinary microbiology & diagnostics; medi
  
 ### Journal Publications (Refereed)
 
-- M. E. Srednik, B. R. Morningstar-Shaw, J. A. Hicks, C. Tong, T. A. Mackie, and L. K. Schlater, 2023:  [Whole-genome sequencing and phylogenetic analysis capture the emergence of a multi-drug resistant Salmonella enterica serovar Infantis clone from diagnostic animal samples in the United States](https://doi.org/10.3389/fmicb.2023.1166908).  *Frontiers in Microbiology*, **14**: in press.
+- M. E. Srednik, B. R. Morningstar-Shaw, J. A. Hicks, C. Tong, T. A. Mackie, and L. K. Schlater, 2023:  [Whole-genome sequencing and phylogenetic analysis capture the emergence of a multi-drug resistant Salmonella enterica serovar Infantis clone from diagnostic animal samples in the United States](https://doi.org/10.3389/fmicb.2023.1166908).  *Frontiers in Microbiology*, **14**:  1166908.
 
   - Published under the research topic, "Antimicrobial Resistance Genomics in Bacterial Zoonotic Pathogens".
 

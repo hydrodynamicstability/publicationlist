@@ -32,6 +32,11 @@ Washington, DC.  *American Statistical Association 2009 Proceedings*, Biopharmac
 - S. R. Sanjee and C. Tong, 2009:  SAS and VBScript for generation of Powerpoint presentation.  *PharmaSUG 2009*, 31 May-3 June 2009, Portland, Oregon, AD05.
 
   - PharmaSUG = Pharmaceutical Industry SAS Users' Group.
+
+## Conference Abstracts
+
+- J. Swintek and C. Tong, 2023:  [The use of mitigated fractions as a generalized metric for
+survival analysis of non-proportional hazards](https://ww3.aievolution.com/AMSTATevents/index.cfm?do=ev.viewEv&ev=2334).  *American Statistical Association Biopharmaceutical Section Regulatory-Industry Statistics Workshop 2023*, 27-29 September 2023, Rockville, MD.
   
 ## Miscellany
 

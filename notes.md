@@ -29,4 +29,4 @@ Other sites maintain even less complete and less accurate lists of my scholarly 
 
 Finally, note that I have two MR Author IDs on [MathSciNet](https://mathscinet.ams.org/):  644600 and 969588.
 
-(c) 2022 by Christopher Tong
+(c) 2022-2023 by Christopher Tong

@@ -22,4 +22,4 @@
   - B. Gunter and C. Tong, 2017:  [Reply to Justin Smith](GunterAndTong_2017replyToSmithextr.pdf). *Significance*, **14** (6): 46.
   
 
-(c) 2022 by Christopher Tong
+(c) 2022-2023 by Christopher Tong

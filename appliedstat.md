@@ -48,6 +48,8 @@ effects in a guinea pig model](https://doi.org/10.1016/j.steroids.2009.02.012). 
 and R. Hargreaves, 2009: [A novel 3-dimensional micro-ultrasound approach to automated measurement of carotid arterial plaque volume as a biomarker 
 for experimental atherosclerosis](https://doi.org/10.1016/j.atherosclerosis.2008.09.013).  *Atherosclerosis*, **204**: 55-65.  :lock:
 
+  - As of 8/2/23, the persistent DOI link appears to be broken.  Try [this](https://www.sciencedirect.com/science/article/abs/pii/S0021915008006254).
+
 - B. B. Haines, K. A. Bettano, M. Chenard, R. S. Sevilla, C. Ware, M. H. Angagaw, C. T. Winkelmann, C. Tong, J. F. Reilly, C. Sur,  and W. Zhang, 2009: [A 
 quantitative volumetric micro-computed tomography method to analyze lung tumors in genetically engineered mouse models](https://doi.org/10.1593/neo.81030).  *Neoplasia*, **11**: 39-47.
 

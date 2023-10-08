@@ -36,7 +36,7 @@ Washington, DC.  *American Statistical Association 2009 Proceedings*, Biopharmac
 ## Conference Abstracts
 
 - J. Swintek and C. Tong, 2023:  [The use of mitigated fractions as a generalized metric for
-survival analysis of non-proportional hazards](https://ww3.aievolution.com/AMSTATevents/index.cfm?do=ev.viewEv&ev=2334).  *American Statistical Association Biopharmaceutical Section Regulatory-Industry Statistics Workshop 2023*, 27-29 September 2023, Rockville, MD.
+survival analysis of non-proportional hazards](https://ww3.aievolution.com/AMSTATevents/index.cfm?do=ev.viewEv&ev=2791).  *American Statistical Association Biopharmaceutical Section Regulatory-Industry Statistics Workshop 2023*, 27-29 September 2023, Rockville, MD.
   
 ## Miscellany
 

@@ -29,4 +29,19 @@ Other sites maintain even less complete and less accurate lists of my scholarly 
 
 Finally, note that I have two MR Author IDs on [MathSciNet](https://mathscinet.ams.org/):  644600 and 969588.
 
+# Peer Review activity
+
+In addition to occasional internal peer review service for my employers, I have served as a peer reviewer for the following journals:
+
+- *The American Statistician*
+- *Technometrics*
+- *Statistics in Biopharmaceutical Research*
+- *Pharmaceutical Statistics*
+- *Journal of Neuroscience Methods*
+- *Journal of Chemical Information and Computer Sciences*
+- *Laboratory Animals*
+- *PDA Journal of Pharmaceutical Science and Technology*
+
+I was also an external reader for [this](https://open.alberta.ca/publications/9781460143759#summary) technical report from the Alberta Ministry of Agriculture and Forestry (Edmonton, Alberta, Canada).
+
 (c) 2022-2023 by Christopher Tong

@@ -47,4 +47,4 @@ survival analysis of non-proportional hazards](https://ww3.aievolution.com/AMSTA
   - Accompanying code available [here](https://github.com/hydrodynamicstability/boxdot.plot).
 
 
-(c) 2022-2023 by Christopher Tong
+(c) 2022-2024 by Christopher Tong

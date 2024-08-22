@@ -117,6 +117,7 @@ Journal*, **16** (4), A224.
 ### In memoriam
 
 - Mary Ann Rounds (1947-2002), PRIMELab, Dept. of Physics, Purdue University.
+- [George P. McCabe](https://www.stat.purdue.edu/news/2023/mccabe_george.html) (1945-2023), Dept. of Statistics, Purdue University.
 
 ## Notes
 

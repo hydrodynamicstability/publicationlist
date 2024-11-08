@@ -8,7 +8,7 @@ Grouped in the following categories: veterinary microbiology & diagnostics; medi
  
 ### Journal Publications (Refereed)
 
-- A. J. Scupham and C. Tong, 2024:  Detection of equine parvovirus-hepatitis and efficacy of governmental regulation for equine biologics purity.  *Journal of Veterinary Diagnostic Investigation*, in press.
+- A. J. Scupham and C. Tong, 2024:  [Detection of equine parvovirus-hepatitis and efficacy of governmental regulation for equine biologics purity](https://doi.org/10.1177/10406387241292343).  *Journal of Veterinary Diagnostic Investigation*, in press.
 
 - M. E. Srednik, B. R. Morningstar-Shaw, J. A. Hicks, C. Tong, T. A. Mackie, and L. K. Schlater, 2023:  [Whole-genome sequencing and phylogenetic analysis capture the emergence of a multi-drug resistant Salmonella enterica serovar Infantis clone from diagnostic animal samples in the United States](https://doi.org/10.3389/fmicb.2023.1166908).  *Frontiers in Microbiology*, **14**:  1166908.
 

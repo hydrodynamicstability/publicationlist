@@ -56,8 +56,8 @@ Low-order models in the form of coupled gyrostats, applied to 2D and 3D Rayleigh
 - Dr. [Alexander B. Gluhovsky](https://www.eaps.purdue.edu/people/profile/aglu.html), Professor Emeritus, Dept. of Earth, Atmospheric, and Planetary Sciences, and Dept. of Statistics, Purdue University.
 - Dr. [Ernest M. Agee](https://www.eaps.purdue.edu/people/profile/eagee.html), Professor Emeritus and former Head, Dept. of Earth, Atmospheric, and Planetary Sciences, Purdue University.
   - [A Golden Academic Adventure](https://www.eaps.purdue.edu/news/articles/2021/1006_agee.html)
-- Dr. Suzanne M. Zurn-Birkhimer, Associate Director, Women in Engineering Program; and courtesy Associate Professor, Dept. of Earth, Atmospheric, and Planetary Sciences, Purdue University.
-- Dr. [Daniel T. Dawson II](https://www.eaps.purdue.edu/people/profile/dawson29.html), Assistant Professor, Dept. of Earth, Atmospheric, and Planetary Sciences, Purdue University.
+- Dr. [Suzanne M. Zurn-Birkhimer](https://engineering.purdue.edu/WiE/about-us/?action=view_person&group_id=307907&resource_id=202020), Associate Director, Women in Engineering Program; and courtesy Associate Professor, Dept. of Earth, Atmospheric, and Planetary Sciences, Purdue University.
+- Dr. [Daniel T. Dawson II](https://www.eaps.purdue.edu/people/profile/dawson29.html), Associate Professor, Dept. of Earth, Atmospheric, and Planetary Sciences, Purdue University.
 
 
-(c) 2022-2024 by Christopher Tong
+(c) 2022-2025 by Christopher Tong

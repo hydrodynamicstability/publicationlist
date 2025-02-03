@@ -68,4 +68,4 @@ ADME = Absorption, Distribution, Metabolism, and Excretion.
 ADMET = same, except add Toxicity.
 
 
-(c) 2022-2024 by Christopher Tong
+(c) 2022-2025 by Christopher Tong

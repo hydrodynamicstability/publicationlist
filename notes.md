@@ -44,4 +44,4 @@ In addition to occasional internal peer review service for my employers, I have 
 
 I was also an external reader for [this](https://open.alberta.ca/publications/9781460143759#summary) technical report from the Alberta Ministry of Agriculture and Forestry (Edmonton, Alberta, Canada).
 
-(c) 2022-2024 by Christopher Tong
+(c) 2022-2025 by Christopher Tong

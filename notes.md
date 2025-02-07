@@ -41,6 +41,7 @@ In addition to occasional internal peer review service for my employers, I have 
 - *Journal of Chemical Information and Computer Sciences*
 - *Laboratory Animals*
 - *PDA Journal of Pharmaceutical Science and Technology*
+- *North American Journal of Fisheries Management*
 
 I was also an external reader for [this](https://open.alberta.ca/publications/9781460143759#summary) technical report from the Alberta Ministry of Agriculture and Forestry (Edmonton, Alberta, Canada).
 

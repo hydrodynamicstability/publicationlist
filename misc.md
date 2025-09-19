@@ -5,8 +5,6 @@
 
 ## Expository
 
-- C. Tong, 2024:  [D/Dt or d/dt for the material derivative? The views of Sir George, Sir Harold, Lady Bertha, Sir James, and other friends](https://meetings.aps.org/Meeting/DFD24/Session/X32.10).  *American Physical Society 77th Annual Meeting of the Division of Fluid Dynamics*, 24-26 November 2024, Salt Lake City, UT, X32.00010.
-
 - C. Tong, 2021:  [The statistical endeavors of Andrew Carnegie](https://doi.org/10.1080/09332480.2021.2003633).  *Chance*, **34** (4), 12-17.  :lock:
 
   - Erratum:  The beginning of the third to last paragraph on the last page should read:  "By contemporary standards, Andrew Carnegie is not a statistician, nor would his modern counterparts--CEOs of modern companies--be considered statisticians..."
@@ -14,6 +12,13 @@
   - This article is discussed in Episode 216 of the *Stats+Stories* podcast, [Carnegie the Statistician](https://statsandstories.net/economics1/carnegie-the-statistician) (Jan. 27, 2022).
 
   - Presented (virtually) at the *Nevada Statistics Symposium*, 25 March 2022.  Notes from that presentation may be found [here](https://hydrodynamicstability.github.io/AndrewCarnegie/).
+
+## History of Fluid Mechanics
+
+- C. Tong, 2025:  The fluid mechanics research of Laura Bassi (1711-1778).  *American Physical Society Far West Section Annual Meeting*, 10-12 October 2025, Santa Cruz, CA, submitted.
+
+
+- C. Tong, 2024:  [D/Dt or d/dt for the material derivative? The views of Sir George, Sir Harold, Lady Bertha, Sir James, and other friends](https://meetings.aps.org/Meeting/DFD24/Session/X32.10).  *American Physical Society 77th Annual Meeting of the Division of Fluid Dynamics*, 24-26 November 2024, Salt Lake City, UT, X32.00010.
 
 ## Book Review
 

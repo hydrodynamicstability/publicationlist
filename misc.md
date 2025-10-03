@@ -15,7 +15,7 @@
 
 ## History of Fluid Mechanics
 
-- C. Tong, 2025:  The fluid mechanics research of Laura Bassi (1711-1778).  *American Physical Society Far West Section Annual Meeting*, 10-12 October 2025, Santa Cruz, CA, submitted.
+- C. Tong, 2025:  [The fluid mechanics research of Laura Bassi (1711-1778)](https://meetings.aps.org/Meeting/FWS25/Session/I04.3).  *American Physical Society Far West Section Annual Meeting*, 10-12 October 2025, Santa Cruz, CA, I04.3.
 
 
 - C. Tong, 2024:  [D/Dt or d/dt for the material derivative? The views of Sir George, Sir Harold, Lady Bertha, Sir James, and other friends](https://meetings.aps.org/Meeting/DFD24/Session/X32.10).  *American Physical Society 77th Annual Meeting of the Division of Fluid Dynamics*, 24-26 November 2024, Salt Lake City, UT, X32.00010.

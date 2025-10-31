@@ -33,7 +33,7 @@ Low-order models in the form of coupled gyrostats, applied to 2D and 3D Rayleigh
 
 - A. Gluhovsky and C. Tong, 2001:  [Physically motivated Galerkin approximations in geophysical fluid dynamics](http://flux.aps.org/meetings/YR01/DFD01/abs/S420007.html). *American Physical Society 54th Annual Meeting of the Division of Fluid Dynamics*, 18-20 November 2001, San Diego, California, DL 7.  *Bulletin of the American Physical Society*, **46** (10), 82.
 
-- C. Tong and A. Gluhovsky, 2001:  Modeling fluid flow with gyrostats.  *Indiana Section of the Mathematical Association of America Fall 2001 Meeting*, 20 October 2001, West Lafayette, Indiana.
+- C. Tong and A. Gluhovsky, 2001:  [Modeling fluid flow with gyrostats](maa_indiana_section2001_fall_meeting_abstract_TONG.png).  *Indiana Section of the Mathematical Association of America Fall 2001 Meeting*, 20 October 2001, West Lafayette, Indiana.
 
 - A. Gluhovsky and C. Tong, 1999:  [Nonlinear models in geophysical fluid dynamics in the form of coupled gyrostats](egs1999ex.PNG).  *Twenty-fourth General Assembly of the European Geophysical Society*, 19-23 April 1999, The Hague, Netherlands.  *Geophysical Research Abstracts*, **1**, 810.
 

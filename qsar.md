@@ -17,7 +17,8 @@ modeling](https://doi.org/10.1021/ci0500379). *Journal of Chemical Information a
 - V. Svetnik, A. Liaw, C.  Tong, J. C. Culberson, R. P. Sheridan, and B. P. Feuston, 2003:  [Random forest:  a classification and regression tool for 
 compound classification and QSAR modeling](https://doi.org/10.1021/ci034160g). *Journal of Chemical Information and Computer Sciences*, **43**: 1947-1958.  :lock:
 
-  - This is by far the most frequently cited journal paper I have co-authored; Google Scholar shows over 4000 citations.  According to Prof. [Peter Willett](https://doi.org/10.3390/ijms21155576), as of May 2020, this is the fourth most cited paper in the entire field of cheminformatics published between 1978-2018.  The Altmetrics page for this paper shows that blogger Stephen Turner called this paper "the best explanation of Random Forest I've come across" ([Getting Genetics Done](https://gettinggeneticsdone.blogspot.com/2011/02/split-data-frame-into-testing-and.html), 2/24/2011); Nathan Brown called it "seminal" (6/15/2018).
+  - This is by far the most frequently cited journal paper I have co-authored; Google Scholar shows over 4000 citations.  According to Prof. [Peter Willett](https://doi.org/10.3390/ijms21155576), as of May 2020, this is the fourth most cited paper in the entire field of cheminformatics published between 1978-2018.  In December, 2025, the editors' [reflections](https://doi.org/10.1021/acs.jcim.5c02905) on the journal's 65th anniversary mentioned this paper as one of its "most highly cited articles."
+The Altmetrics page for this paper shows that blogger Stephen Turner called this paper "the best explanation of Random Forest I've come across" ([Getting Genetics Done](https://gettinggeneticsdone.blogspot.com/2011/02/split-data-frame-into-testing-and.html), 2/24/2011); Nathan Brown called it "seminal" (6/15/2018).
 
 ## Conference Papers (Refereed)
 

@@ -37,4 +37,4 @@ of the Association for Research in Otolaryngology*, 13-18 February 1999, St. Pet
 - Dr. [Lauren A. Shaffer](https://www.bsu.edu/academics/collegesanddepartments/spaa/about-us/directory/shafferlauren), Associate Professor and former Interim Chair, Dept. of Speech Pathology and Audiology, Ball State University.
 
 
-(c) 2022-2025 by Christopher Tong
+(c) 2022-2026 by Christopher Tong

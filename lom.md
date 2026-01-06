@@ -60,4 +60,4 @@ Low-order models in the form of coupled gyrostats, applied to 2D and 3D Rayleigh
 - Dr. [Daniel T. Dawson II](https://www.eaps.purdue.edu/people/profile/dawson29.html), Associate Professor, Dept. of Earth, Atmospheric, and Planetary Sciences, Purdue University.
 
 
-(c) 2022-2025 by Christopher Tong
+(c) 2022-2026 by Christopher Tong

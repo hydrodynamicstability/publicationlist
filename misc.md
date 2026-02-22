@@ -47,6 +47,8 @@
 
 - C. Tong, 1996:  [Torsional pendulums and SQUIDs](https://doi.org/10.1119/1.18352).  [Response to Randall D. Peters.]  *American Journal of Physics*, **64**: 1227-1228.  :lock:
 
+  - Erratum:  The reference in footnote 4 has a typo.  The first page of the article should be 347, not 357.
+   
 - C. Tong, 1995:  [Answer](https://doi.org/10.1119/1.17963) to Question #4, "Is there a physics application that is best analyzed in terms of continued fractions?".  [Repsonse to Dwight E. Neuenschwander.]  *American Journal of Physics*, **63**: 109.
 
 

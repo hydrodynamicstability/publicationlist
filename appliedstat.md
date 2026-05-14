@@ -43,7 +43,7 @@ Therapeutic areas:  cardiovascular diseases, steroids, oncology.
 - K. Azer, [M. C. Desiderio](https://wvumedicine.org/doctors/details/?ser=2116390), C. Tong, M. Bunzel, B. R. Campbell, D. Shevell, and M. Walker III, 2010: [High throughput Doppler toolbox for preclinical 
 drug development](https://doi.org/10.1016/j.jala.2009.12.002).  *Journal of the Association for Laboratory Automation*, **15**: 287-296.
 
-- H. Tang, J. R. Vasselli, C. Tong, S. B. Heymsfield, and E. X. Wu, 2009:  [In vivo MRI evaluation of anabolic steroid precursor growth 
+- H. Tang, J. R. Vasselli, C. Tong, [S. B. Heymsfield](https://www.pbrc.edu/research-and-faculty/faculty/heymsfield-steven-phd.aspx), and [E. X. Wu](https://ece.hku.hk/people/ewu/), 2009:  [In vivo MRI evaluation of anabolic steroid precursor growth 
 effects in a guinea pig model](https://doi.org/10.1016/j.steroids.2009.02.012). *Steroids*, **74**: ~684-693.  :lock:
 
 - M. Walker III,  B. R. Campbell,  K. Azer, C. Tong, K. Fang, J. J. Cook, M. J. Forrest,  K. Kempadoo, S. D. Wright, J. S. Saltzman,  E. MacIntyre, 

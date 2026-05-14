@@ -20,7 +20,7 @@ Grouped in the following categories: veterinary microbiology & diagnostics; medi
 
   - OIE = World Organisation for Animal Health.
 
-- A. L. Ingebritson, C. P. Gibbs, C. Tong, and G. B. Srinivas, 2015:  [A PCR detection method for testing mycoplasma contamination of veterinary vaccines and
+- A. L. Ingebritson, [C. P. Gibbs](https://www.edgevcg.com/team/carol-gibbs/), C. Tong, and G. B. Srinivas, 2015:  [A PCR detection method for testing mycoplasma contamination of veterinary vaccines and
 biological products](https://doi.org/10.1111/lam.12355).  *Letters in Applied Microbiology*, **60**: 174-180.
 
 ### Conference Abstracts

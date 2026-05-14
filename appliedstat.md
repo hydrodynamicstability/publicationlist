@@ -8,9 +8,9 @@ Grouped in the following categories: veterinary microbiology & diagnostics; medi
  
 ### Journal Publications (Refereed)
 
-- A. J. Scupham and C. Tong, 2025:  [Detection of equine parvovirus-hepatitis and efficacy of governmental regulation for equine biologics purity](https://doi.org/10.1177/10406387241292343).  *Journal of Veterinary Diagnostic Investigation*, **37**:  79-85.
+- [A. J. Scupham](https://www.micrograd.iastate.edu/people/alexandra-scupham) and C. Tong, 2025:  [Detection of equine parvovirus-hepatitis and efficacy of governmental regulation for equine biologics purity](https://doi.org/10.1177/10406387241292343).  *Journal of Veterinary Diagnostic Investigation*, **37**:  79-85.
 
-- M. E. Srednik, B. R. Morningstar-Shaw, J. A. Hicks, C. Tong, T. A. Mackie, and L. K. Schlater, 2023:  [Whole-genome sequencing and phylogenetic analysis capture the emergence of a multi-drug resistant Salmonella enterica serovar Infantis clone from diagnostic animal samples in the United States](https://doi.org/10.3389/fmicb.2023.1166908).  *Frontiers in Microbiology*, **14**:  1166908.
+- [M. E. Srednik](https://www.uwyo.edu/vetsci/department-directory/faculty-members/srednik-mariela.html), B. R. Morningstar-Shaw, J. A. Hicks, C. Tong, T. A. Mackie, and L. K. Schlater, 2023:  [Whole-genome sequencing and phylogenetic analysis capture the emergence of a multi-drug resistant Salmonella enterica serovar Infantis clone from diagnostic animal samples in the United States](https://doi.org/10.3389/fmicb.2023.1166908).  *Frontiers in Microbiology*, **14**:  1166908.
 
   - Published under the research topic, "Antimicrobial Resistance Genomics in Bacterial Zoonotic Pathogens".
 
@@ -40,7 +40,7 @@ Therapeutic areas:  cardiovascular diseases, steroids, oncology.
 
 ### Journal Publications (Refereed)
 
-- K. Azer, M. C. Desiderio, C. Tong, M. Bunzel, B. R. Campbell, D. Shevell, and M. Walker III, 2010: [High throughput Doppler toolbox for preclinical 
+- K. Azer, [M. C. Desiderio](https://wvumedicine.org/doctors/details/?ser=2116390), C. Tong, M. Bunzel, B. R. Campbell, D. Shevell, and M. Walker III, 2010: [High throughput Doppler toolbox for preclinical 
 drug development](https://doi.org/10.1016/j.jala.2009.12.002).  *Journal of the Association for Laboratory Automation*, **15**: 287-296.
 
 - H. Tang, J. R. Vasselli, C. Tong, S. B. Heymsfield, and E. X. Wu, 2009:  [In vivo MRI evaluation of anabolic steroid precursor growth 
@@ -55,7 +55,7 @@ for experimental atherosclerosis](https://doi.org/10.1016/j.atherosclerosis.2008
 - B. B. Haines, K. A. Bettano, M. Chenard, R. S. Sevilla, C. Ware, M. H. Angagaw, C. T. Winkelmann, C. Tong, J. F. Reilly, C. Sur,  and W. Zhang, 2009: [A 
 quantitative volumetric micro-computed tomography method to analyze lung tumors in genetically engineered mouse models](https://doi.org/10.1593/neo.81030).  *Neoplasia*, **11**: 39-47.
 
-- J. H. F. Rudd, K. S. Myers, S. Bansilal, J. Machac, C. A. Pinto, C. Tong, A. Rafique, R. Hargreaves, M. Farkouh, V. Fuster, and Z. A. Fayad, 2008:  [Atherosclerosis 
+- [J. H. F. Rudd](https://www.cardiovascular.cam.ac.uk/directory/jrudd), K. S. Myers, S. Bansilal, J. Machac, C. A. Pinto, C. Tong, A. Rafique, R. Hargreaves, M. Farkouh, [V. Fuster](https://profiles.icahn.mssm.edu/valentin-fuster), and [Z. A. Fayad](https://profiles.icahn.mssm.edu/zahi-a-fayad), 2008:  [Atherosclerosis 
 inflammation imaging with 18F-FDG PET:  carotid, iliac and femoral uptake reproducibility, quantification methods, and recommendations](https://doi.org/10.2967/jnumed.107.050294).  *Journal of Nuclear Medicine*, **49**:  871-878.
 
   - This paper was featured on the cover of the journal's June, 2008, issue.
